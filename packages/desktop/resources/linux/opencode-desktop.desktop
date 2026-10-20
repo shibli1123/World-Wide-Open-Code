@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Nexgen
+Exec=/opt/Nexgen/io.github.shibli1123.nexgen.desktop %U
+Terminal=false
+Type=Application
+Icon=io.github.shibli1123.nexgen.desktop
+StartupWMClass=io.github.shibli1123.nexgen.desktop
+NoDisplay=true
+Comment=Open source code collaboration workspace
+Categories=Development;
