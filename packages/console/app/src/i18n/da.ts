@@ -15,7 +15,7 @@ export const dict = {
   "nav.home": "Hjem",
   "nav.openMenu": "Åbn menu",
   "nav.getStartedFree": "Kom i gang gratis",
-  "nav.logoAlt": "Nexgen",
+  "nav.logoAlt": "World Wide Open Code",
 
   "nav.context.copyLogo": "Kopier logo som SVG",
   "nav.context.copyWordmark": "Kopier wordmark som SVG",
@@ -55,9 +55,9 @@ export const dict = {
   "common.faq": "FAQ",
   "common.learnMore": "Læs mere",
 
-  "app.meta.description": "Nexgen - Den open source kodningsagent.",
+  "app.meta.description": "World Wide Open Code - Den open source kodningsagent.",
 
-  "home.title": "Nexgen | Den open source AI-kodningsagent",
+  "home.title": "World Wide Open Code | Den open source AI-kodningsagent",
 
   "home.banner.badge": "Ny",
 
@@ -67,9 +67,9 @@ export const dict = {
 
   "home.install.ariaLabel": "Installationsmuligheder",
 
-  "home.what.title": "Hvad er Nexgen?",
+  "home.what.title": "Hvad er World Wide Open Code?",
   "home.what.body":
-    "Nexgen er en open source agent, der hjælper dig med at skrive kode i din terminal, IDE eller desktop.",
+    "World Wide Open Code er en open source agent, der hjælper dig med at skrive kode i din terminal, IDE eller desktop.",
   "home.what.lsp.title": "LSP aktiveret",
   "home.what.lsp.body": "Indlæser automatisk de rigtige LSP'er til LLM'en",
   "home.what.multiSession.title": "Multi-session",
@@ -88,49 +88,49 @@ export const dict = {
 
   "home.growth.title": "Den open source AI-kodningsagent",
   "home.growth.body":
-    "Med over <strong>{{stars}}</strong> GitHub-stjerner, <strong>{{contributors}}</strong> bidragsydere og over <strong>{{commits}}</strong> commits bruges Nexgen af over <strong>{{monthlyUsers}}</strong> udviklere hver måned.",
+    "Med over <strong>{{stars}}</strong> GitHub-stjerner, <strong>{{contributors}}</strong> bidragsydere og over <strong>{{commits}}</strong> commits bruges World Wide Open Code af over <strong>{{monthlyUsers}}</strong> udviklere hver måned.",
   "home.growth.githubStars": "GitHub-stjerner",
   "home.growth.contributors": "Bidragsydere",
   "home.growth.monthlyDevs": "Månedlige udviklere",
 
   "home.privacy.title": "Bygget med privatliv først",
   "home.privacy.body":
-    "Nexgen gemmer ikke din kode eller kontekstdata, så den kan bruges i privatlivsfølsomme miljøer.",
+    "World Wide Open Code gemmer ikke din kode eller kontekstdata, så den kan bruges i privatlivsfølsomme miljøer.",
   "home.privacy.learnMore": "Læs mere om",
   "home.privacy.link": "privatliv",
 
-  "home.faq.q1": "Hvad er Nexgen?",
+  "home.faq.q1": "Hvad er World Wide Open Code?",
   "home.faq.a1":
-    "Nexgen er en open source agent, der hjælper dig med at skrive og køre kode med enhver AI-model. Den er tilgængelig som terminal-interface, desktop-app eller IDE-udvidelse.",
-  "home.faq.q2": "Hvordan bruger jeg Nexgen?",
+    "World Wide Open Code er en open source agent, der hjælper dig med at skrive og køre kode med enhver AI-model. Den er tilgængelig som terminal-interface, desktop-app eller IDE-udvidelse.",
+  "home.faq.q2": "Hvordan bruger jeg World Wide Open Code?",
   "home.faq.a2.before": "Den nemmeste måde at komme i gang på er at læse",
   "home.faq.a2.link": "introen",
-  "home.faq.q3": "Skal jeg have ekstra AI-abonnementer for at bruge Nexgen?",
+  "home.faq.q3": "Skal jeg have ekstra AI-abonnementer for at bruge World Wide Open Code?",
   "home.faq.a3.p1":
-    "Ikke nødvendigvis. Nexgen kommer med gratis modeller, som du kan bruge uden at oprette en konto.",
+    "Ikke nødvendigvis. World Wide Open Code kommer med gratis modeller, som du kan bruge uden at oprette en konto.",
   "home.faq.a3.p2.beforeZen": "Derudover kan du bruge populære kodningsmodeller ved at oprette en",
   "home.faq.a3.p2.afterZen": " konto.",
   "home.faq.a3.p3":
-    "Vi opfordrer til at bruge Zen, men Nexgen virker også med populære udbydere som OpenAI, Anthropic, xAI osv.",
+    "Vi opfordrer til at bruge Zen, men World Wide Open Code virker også med populære udbydere som OpenAI, Anthropic, xAI osv.",
   "home.faq.a3.p4.beforeLocal": "Du kan endda forbinde dine",
   "home.faq.a3.p4.localLink": "lokale modeller",
-  "home.faq.q4": "Kan jeg bruge mine eksisterende AI-abonnementer med Nexgen?",
+  "home.faq.q4": "Kan jeg bruge mine eksisterende AI-abonnementer med World Wide Open Code?",
   "home.faq.a4.p1":
-    "Ja. Nexgen understøtter abonnementer fra alle store udbydere. Du kan bruge Claude Pro/Max, ChatGPT Plus/Pro eller GitHub Copilot.",
-  "home.faq.q5": "Kan jeg kun bruge Nexgen i terminalen?",
-  "home.faq.a5.beforeDesktop": "Ikke længere! Nexgen er nu tilgængelig som en app til",
+    "Ja. World Wide Open Code understøtter abonnementer fra alle store udbydere. Du kan bruge Claude Pro/Max, ChatGPT Plus/Pro eller GitHub Copilot.",
+  "home.faq.q5": "Kan jeg kun bruge World Wide Open Code i terminalen?",
+  "home.faq.a5.beforeDesktop": "Ikke længere! World Wide Open Code er nu tilgængelig som en app til",
   "home.faq.a5.desktop": "desktop",
   "home.faq.a5.and": "og",
   "home.faq.a5.web": "web",
-  "home.faq.q6": "Hvad koster Nexgen?",
+  "home.faq.q6": "Hvad koster World Wide Open Code?",
   "home.faq.a6":
-    "Nexgen er 100% gratis at bruge. Det kommer også med et sæt gratis modeller. Der kan være ekstra omkostninger, hvis du forbinder en anden udbyder.",
+    "World Wide Open Code er 100% gratis at bruge. Det kommer også med et sæt gratis modeller. Der kan være ekstra omkostninger, hvis du forbinder en anden udbyder.",
   "home.faq.q7": "Hvad med data og privatliv?",
   "home.faq.a7.p1": "Dine data gemmes kun, når du bruger vores gratis modeller.",
   "home.faq.a7.p2.beforeModels": "Læs mere om",
   "home.faq.a7.p2.modelsLink": "vores modeller",
-  "home.faq.q8": "Er Nexgen open source?",
-  "home.faq.a8.p1": "Ja, Nexgen er fuldt open source. Kildekoden er offentlig på",
+  "home.faq.q8": "Er World Wide Open Code open source?",
+  "home.faq.a8.p1": "Ja, World Wide Open Code er fuldt open source. Kildekoden er offentlig på",
   "home.faq.a8.p2": "under",
   "home.faq.a8.mitLicense": "MIT-licensen",
   "home.faq.a8.p3":
@@ -138,23 +138,23 @@ export const dict = {
 
   "home.zenCta.title": "Få adgang til pålidelige, optimerede modeller til kodningsagenter",
   "home.zenCta.body":
-    "Zen giver dig adgang til et håndplukket sæt AI-modeller, som Nexgen har testet og benchmarked specifikt til kodningsagenter. Du behøver ikke bekymre dig om svingende performance og kvalitet på tværs af udbydere: brug validerede modeller, der virker.",
+    "Zen giver dig adgang til et håndplukket sæt AI-modeller, som World Wide Open Code har testet og benchmarked specifikt til kodningsagenter. Du behøver ikke bekymre dig om svingende performance og kvalitet på tværs af udbydere: brug validerede modeller, der virker.",
   "home.zenCta.link": "Læs om Zen",
 
-  "zen.title": "Nexgen Zen | Et kurateret sæt af pålidelige, optimerede modeller til kodningsagenter",
+  "zen.title": "World Wide Open Code Zen | Et kurateret sæt af pålidelige, optimerede modeller til kodningsagenter",
   "zen.hero.title": "Pålidelige optimerede modeller til kodningsagenter",
   "zen.hero.body":
-    "Zen giver dig adgang til et kurateret sæt AI-modeller, som Nexgen har testet og benchmarked specifikt til kodningsagenter. Du behøver ikke bekymre dig om svingende performance og kvalitet: brug validerede modeller, der virker.",
+    "Zen giver dig adgang til et kurateret sæt AI-modeller, som World Wide Open Code har testet og benchmarked specifikt til kodningsagenter. Du behøver ikke bekymre dig om svingende performance og kvalitet: brug validerede modeller, der virker.",
 
-  "zen.faq.q1": "Hvad er Nexgen Zen?",
+  "zen.faq.q1": "Hvad er World Wide Open Code Zen?",
   "zen.faq.a1":
-    "Zen er et kurateret sæt AI-modeller testet og benchmarked til kodningsagenter, skabt af teamet bag Nexgen.",
+    "Zen er et kurateret sæt AI-modeller testet og benchmarked til kodningsagenter, skabt af teamet bag World Wide Open Code.",
   "zen.faq.q2": "Hvad gør Zen mere præcis?",
   "zen.faq.a2":
     "Zen tilbyder kun modeller, der er testet og benchmarked specifikt til kodningsagenter. Du ville ikke bruge en smørkniv til at skære steak; brug ikke dårlige modeller til kodning.",
   "zen.faq.q3": "Er Zen billigere?",
   "zen.faq.a3":
-    "Zen er ikke for profit. Zen videregiver omkostningerne fra modeludbyderne til dig. Jo mere Zen bruges, desto mere kan Nexgen forhandle bedre priser og give dem videre til dig.",
+    "Zen er ikke for profit. Zen videregiver omkostningerne fra modeludbyderne til dig. Jo mere Zen bruges, desto mere kan World Wide Open Code forhandle bedre priser og give dem videre til dig.",
   "zen.faq.q4": "Hvad koster Zen?",
   "zen.faq.a4.p1.beforePricing": "Zen",
   "zen.faq.a4.p1.pricingLink": "opkræver per request",
@@ -162,7 +162,7 @@ export const dict = {
   "zen.faq.a4.p2.beforeAccount": "Din samlede pris afhænger af brug, og du kan sætte månedlige udgiftsgrænser i din",
   "zen.faq.a4.p2.accountLink": "konto",
   "zen.faq.a4.p3":
-    "For at dække omkostninger tilføjer Nexgen kun et lille betalingsgebyr på $1.23 per $20 saldo-opfyldning.",
+    "For at dække omkostninger tilføjer World Wide Open Code kun et lille betalingsgebyr på $1.23 per $20 saldo-opfyldning.",
   "zen.faq.q5": "Hvad med data og privatliv?",
   "zen.faq.a5.beforeExceptions":
     "Alle Zen-modeller hostes i USA. Udbydere følger en zero-retention-policy og bruger ikke dine data til modeltræning, med de",
@@ -173,7 +173,7 @@ export const dict = {
   "zen.faq.a7": "Ja, du kan deaktivere betaling når som helst og bruge din resterende saldo.",
   "zen.faq.q8": "Kan jeg bruge Zen med andre kodningsagenter?",
   "zen.faq.a8":
-    "Selvom Zen fungerer godt med Nexgen, kan du bruge Zen med enhver agent. Følg opsætningsinstruktionerne i din foretrukne kodningsagent.",
+    "Selvom Zen fungerer godt med World Wide Open Code, kan du bruge Zen med enhver agent. Følg opsætningsinstruktionerne i din foretrukne kodningsagent.",
   "zen.faq.q9": "Kan jeg få en refusion?",
   "zen.faq.a9":
     "Du kan muligvis få en refusion, hvis opkrævningen blev foretaget inden for de seneste 14 dage, og du ikke har brugt kreditten fra dette køb. {{contact}} for at anmode om en refusion.",
@@ -185,12 +185,12 @@ export const dict = {
   "zen.problem.title": "Hvilket problem løser Zen?",
   "zen.problem.body":
     "Der er så mange modeller tilgængelige, men kun få fungerer godt med kodningsagenter. De fleste udbydere konfigurerer dem anderledes med forskellige resultater.",
-  "zen.problem.subtitle": "Vi løser dette for alle, ikke kun Nexgen-brugere.",
+  "zen.problem.subtitle": "Vi løser dette for alle, ikke kun World Wide Open Code-brugere.",
   "zen.problem.item1": "Test af udvalgte modeller og høring af deres teams",
   "zen.problem.item2": "Samarbejde med udbydere for at sikre, at de bliver leveret korrekt",
   "zen.problem.item3": "Benchmarking af alle model-udbyder kombinationer, vi anbefaler",
   "zen.how.title": "Hvordan Zen virker",
-  "zen.how.body": "Selvom vi foreslår, at du bruger Zen med Nexgen, kan du bruge Zen med enhver agent.",
+  "zen.how.body": "Selvom vi foreslår, at du bruger Zen med World Wide Open Code, kan du bruge Zen med enhver agent.",
   "zen.how.step1.title": "Tilmeld dig og tilføj saldo på $20",
   "zen.how.step1.beforeLink": "følg",
   "zen.how.step1.link": "opsætningsinstruktioner",
@@ -205,7 +205,7 @@ export const dict = {
   "zen.privacy.exceptionsLink": "følgende undtagelser",
 
   "go.promo.minimaxM31FlashFree": "MiniMax M3.1 Flash Free er nu tilgængelig i Go, gratis i en begrænset periode.",
-  "go.title": "Nexgen Go | Kodningsmodeller til lav pris for alle",
+  "go.title": "World Wide Open Code Go | Kodningsmodeller til lav pris for alle",
   "go.meta.description":
     "Go koster $10/måned, med generøse brugsgrænser og pålidelig adgang til førende kodningsmodeller.",
   "go.hero.title": "Kodningsmodeller til lav pris for alle",
@@ -241,13 +241,13 @@ export const dict = {
 
   "go.problem.title": "Hvilket problem løser Go?",
   "go.problem.body":
-    "Vi fokuserer på at bringe Nexgen-oplevelsen ud til så mange som muligt. Nexgen Go er et lavprisabonnement til $10/måned. Det giver generøse grænser og pålidelig adgang til de mest kapable open source-modeller.",
+    "Vi fokuserer på at bringe World Wide Open Code-oplevelsen ud til så mange som muligt. World Wide Open Code Go er et lavprisabonnement til $10/måned. Det giver generøse grænser og pålidelig adgang til de mest kapable open source-modeller.",
   "go.problem.item1": "Lavpris abonnementspriser",
   "go.problem.item2": "Generøse grænser og pålidelig adgang",
   "go.problem.item3": "Bygget til så mange programmører som muligt",
   "go.problem.item4": "Et kurateret modeludvalg testet til agentisk kodning",
   "go.how.title": "Hvordan Go virker",
-  "go.how.body": "Go koster $10/måned. Du kan bruge det med Nexgen eller enhver agent.",
+  "go.how.body": "Go koster $10/måned. Du kan bruge det med World Wide Open Code eller enhver agent.",
   "go.how.step1.title": "Opret en konto",
   "go.how.step1.beforeLink": "følg",
   "go.how.step1.link": "opsætningsinstruktionerne",
@@ -256,7 +256,7 @@ export const dict = {
   "go.how.step2.afterLink": "med generøse grænser",
   "go.how.step3.title": "Start kodning",
   "go.how.step3.body": "med pålidelig adgang til open source-modeller",
-  "go.faq.q1": "Hvad er Nexgen Go?",
+  "go.faq.q1": "Hvad er World Wide Open Code Go?",
   "go.faq.a1":
     "Go er et lavprisabonnement, der giver dig pålidelig adgang til kapable open source-modeller til agentisk kodning.",
   "go.faq.q2": "Hvilke modeller inkluderer Go?",
@@ -305,12 +305,12 @@ export const dict = {
   "go.faq.a10":
     "Du kan muligvis få en refusion, hvis opkrævningen blev foretaget inden for de seneste 14 dage, og du ikke har brugt din Go-kvote i den pågældende faktureringsperiode. {{contact}} for at anmode om en refusion.",
 
-  "download.title": "Nexgen | Download",
-  "download.meta.description": "Download Nexgen til macOS, Windows og Linux",
-  "download.section.terminal": "Nexgen Terminal",
-  "download.section.desktop": "Nexgen Desktop",
-  "download.section.extensions": "Nexgen Extensions",
-  "download.section.integrations": "Nexgen Integrations",
+  "download.title": "World Wide Open Code | Download",
+  "download.meta.description": "Download World Wide Open Code til macOS, Windows og Linux",
+  "download.section.terminal": "World Wide Open Code Terminal",
+  "download.section.desktop": "World Wide Open Code Desktop",
+  "download.section.extensions": "World Wide Open Code Extensions",
+  "download.section.integrations": "World Wide Open Code Integrations",
   "download.action.download": "Download",
   "download.action.install": "Installer",
 
@@ -322,21 +322,21 @@ export const dict = {
   "download.platform.linuxRpm": "Linux (.rpm)",
 
   "download.faq.a3.beforeLocal":
-    "Ikke nødvendigvis, men sandsynligvis. Du skal bruge et AI-abonnement hvis du vil forbinde Nexgen til en betalt udbyder, men du kan arbejde med",
+    "Ikke nødvendigvis, men sandsynligvis. Du skal bruge et AI-abonnement hvis du vil forbinde World Wide Open Code til en betalt udbyder, men du kan arbejde med",
   "download.faq.a3.localLink": "lokale modeller",
   "download.faq.a3.afterLocal.beforeZen": "gratis. Selvom vi opfordrer brugere til at bruge",
-  "download.faq.a3.afterZen": ", fungerer Nexgen med alle populære udbydere som OpenAI, Anthropic, xAI osv.",
+  "download.faq.a3.afterZen": ", fungerer World Wide Open Code med alle populære udbydere som OpenAI, Anthropic, xAI osv.",
 
-  "download.faq.a5.p1": "Nexgen er 100% gratis at bruge.",
+  "download.faq.a5.p1": "World Wide Open Code er 100% gratis at bruge.",
   "download.faq.a5.p2.beforeZen":
-    "Eventuelle ekstra omkostninger kommer fra dit abonnement hos en modeludbyder. Selvom Nexgen fungerer med enhver modeludbyder, anbefaler vi at bruge",
+    "Eventuelle ekstra omkostninger kommer fra dit abonnement hos en modeludbyder. Selvom World Wide Open Code fungerer med enhver modeludbyder, anbefaler vi at bruge",
   "download.faq.a5.p2.afterZen": ".",
 
-  "enterprise.title": "Nexgen | Enterprise-løsninger til din organisation",
-  "enterprise.meta.description": "Kontakt Nexgen for enterprise-løsninger",
+  "enterprise.title": "World Wide Open Code | Enterprise-løsninger til din organisation",
+  "enterprise.meta.description": "Kontakt World Wide Open Code for enterprise-løsninger",
   "enterprise.hero.title": "Din kode er din egen",
   "enterprise.hero.body1":
-    "Nexgen fungerer sikkert inde i din organisation uden at lagre data eller kontekst og uden licensbegrænsninger eller ejerskabskrav. Start en prøveperiode med dit team, og udrul det derefter i hele din organisation ved at integrere det med dit SSO og din interne AI-gateway.",
+    "World Wide Open Code fungerer sikkert inde i din organisation uden at lagre data eller kontekst og uden licensbegrænsninger eller ejerskabskrav. Start en prøveperiode med dit team, og udrul det derefter i hele din organisation ved at integrere det med dit SSO og din interne AI-gateway.",
   "enterprise.hero.body2": "Fortæl os, hvordan vi kan hjælpe.",
   "enterprise.form.name.label": "Fulde navn",
   "enterprise.form.name.placeholder": "Jeff Bezos",
@@ -367,29 +367,29 @@ export const dict = {
   "enterprise.form.error.invalidInferenceSpend": "Vælg et gyldigt interval for inferensforbrug.",
   "enterprise.form.error.internalServer": "Intern serverfejl.",
   "enterprise.faq.title": "FAQ",
-  "enterprise.faq.q1": "Hvad er Nexgen Enterprise?",
+  "enterprise.faq.q1": "Hvad er World Wide Open Code Enterprise?",
   "enterprise.faq.a1":
-    "Nexgen Enterprise er til organisationer, der vil sikre, at deres kode og data aldrig forlader deres infrastruktur. Det kan gøres med en central konfiguration, der integrerer med dit SSO og din interne AI-gateway.",
-  "enterprise.faq.q2": "Hvordan kommer jeg i gang med Nexgen Enterprise?",
+    "World Wide Open Code Enterprise er til organisationer, der vil sikre, at deres kode og data aldrig forlader deres infrastruktur. Det kan gøres med en central konfiguration, der integrerer med dit SSO og din interne AI-gateway.",
+  "enterprise.faq.q2": "Hvordan kommer jeg i gang med World Wide Open Code Enterprise?",
   "enterprise.faq.a2":
-    "Start blot med en intern prøveperiode med dit team. Nexgen gemmer som standard ikke din kode eller kontekstdata, hvilket gør det nemt at komme i gang. Kontakt os derefter for at tale om priser og implementeringsmuligheder.",
+    "Start blot med en intern prøveperiode med dit team. World Wide Open Code gemmer som standard ikke din kode eller kontekstdata, hvilket gør det nemt at komme i gang. Kontakt os derefter for at tale om priser og implementeringsmuligheder.",
   "enterprise.faq.q3": "Hvordan fungerer enterprise-priser?",
   "enterprise.faq.a3":
     "Vi tilbyder enterprise-priser pr. bruger. Hvis du har din egen LLM-gateway, opkræver vi ikke for brugte tokens. Kontakt os for flere detaljer og et tilbud tilpasset din organisations behov.",
-  "enterprise.faq.q4": "Er mine data sikre med Nexgen Enterprise?",
+  "enterprise.faq.q4": "Er mine data sikre med World Wide Open Code Enterprise?",
   "enterprise.faq.a4":
-    "Ja. Nexgen gemmer ikke din kode eller kontekstdata. Al behandling sker lokalt eller via direkte API-kald til din AI-udbyder. Med central konfiguration og SSO-integration forbliver dine data sikre inden for din organisations infrastruktur.",
+    "Ja. World Wide Open Code gemmer ikke din kode eller kontekstdata. Al behandling sker lokalt eller via direkte API-kald til din AI-udbyder. Med central konfiguration og SSO-integration forbliver dine data sikre inden for din organisations infrastruktur.",
 
-  "brand.title": "Nexgen | Brand",
-  "brand.meta.description": "Nexgen brandretningslinjer",
+  "brand.title": "World Wide Open Code | Brand",
+  "brand.meta.description": "World Wide Open Code brandretningslinjer",
   "brand.heading": "Brandretningslinjer",
-  "brand.subtitle": "Ressourcer og assets, der hjælper dig med at arbejde med Nexgen-brandet.",
+  "brand.subtitle": "Ressourcer og assets, der hjælper dig med at arbejde med World Wide Open Code-brandet.",
   "brand.downloadAll": "Download alle assets",
 
-  "changelog.title": "Nexgen | Changelog",
-  "changelog.meta.description": "Nexgen versionsnoter og changelog",
+  "changelog.title": "World Wide Open Code | Changelog",
+  "changelog.meta.description": "World Wide Open Code versionsnoter og changelog",
   "changelog.hero.title": "Changelog",
-  "changelog.hero.subtitle": "Nye opdateringer og forbedringer til Nexgen",
+  "changelog.hero.subtitle": "Nye opdateringer og forbedringer til World Wide Open Code",
   "changelog.empty": "Ingen changelog-indlæg fundet.",
   "changelog.viewJson": "Se JSON",
 } satisfies Dict

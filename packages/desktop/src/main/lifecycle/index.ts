@@ -77,7 +77,7 @@ const runtime = Layer.effect(
     }
 
     const secondInstance = (_event: Event, argv: string[]) => {
-      const urls = argv.filter((arg) => arg.startsWith("nexgen://") || arg.startsWith("opencode://"))
+      const urls = argv.filter((arg) => arg.startsWith("wwoc://") || arg.startsWith("opencode://"))
 
       if (urls.length) {
         runFork(Effect.logInfo("deep link received via second-instance", { urls }))

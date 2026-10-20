@@ -19,7 +19,7 @@ import { strip } from "~/lib/language"
 function AppMeta() {
   return (
     <>
-      <Title>Nexgen</Title>
+      <Title>World Wide Open Code</Title>
       <Favicon />
       <Font />
     </>

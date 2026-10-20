@@ -15,7 +15,7 @@ export const dict = {
   "nav.home": "Ana sayfa",
   "nav.openMenu": "Menüyü aç",
   "nav.getStartedFree": "Ücretsiz başla",
-  "nav.logoAlt": "Nexgen",
+  "nav.logoAlt": "World Wide Open Code",
 
   "nav.context.copyLogo": "Logoyu SVG olarak kopyala",
   "nav.context.copyWordmark": "Wordmark'ı SVG olarak kopyala",
@@ -55,9 +55,9 @@ export const dict = {
   "common.faq": "SSS",
   "common.learnMore": "Daha fazla bilgi",
 
-  "app.meta.description": "Nexgen - Açık kaynaklı kodlama ajanı.",
+  "app.meta.description": "World Wide Open Code - Açık kaynaklı kodlama ajanı.",
 
-  "home.title": "Nexgen | Açık kaynaklı yapay zeka kodlama ajanı",
+  "home.title": "World Wide Open Code | Açık kaynaklı yapay zeka kodlama ajanı",
 
   "home.banner.badge": "Yeni",
 
@@ -67,9 +67,9 @@ export const dict = {
 
   "home.install.ariaLabel": "Kurulum seçenekleri",
 
-  "home.what.title": "Nexgen nedir?",
+  "home.what.title": "World Wide Open Code nedir?",
   "home.what.body":
-    "Nexgen, terminalinizde, IDE'nizde veya masaüstünde kod yazmanıza yardım eden açık kaynaklı bir ajandır.",
+    "World Wide Open Code, terminalinizde, IDE'nizde veya masaüstünde kod yazmanıza yardım eden açık kaynaklı bir ajandır.",
   "home.what.lsp.title": "LSP etkin",
   "home.what.lsp.body": "LLM için doğru LSP'leri otomatik olarak yükler",
   "home.what.multiSession.title": "Çoklu oturum",
@@ -88,47 +88,47 @@ export const dict = {
 
   "home.growth.title": "Açık kaynaklı yapay zeka kodlama ajanı",
   "home.growth.body":
-    "GitHub'da <strong>{{stars}}</strong>+ yıldız, <strong>{{contributors}}</strong> katılımcı ve <strong>{{commits}}</strong>+ commit ile Nexgen, her ay <strong>{{monthlyUsers}}</strong>+ geliştirici tarafından kullanılıyor ve güveniliyor.",
+    "GitHub'da <strong>{{stars}}</strong>+ yıldız, <strong>{{contributors}}</strong> katılımcı ve <strong>{{commits}}</strong>+ commit ile World Wide Open Code, her ay <strong>{{monthlyUsers}}</strong>+ geliştirici tarafından kullanılıyor ve güveniliyor.",
   "home.growth.githubStars": "GitHub Yıldızları",
   "home.growth.contributors": "Katılımcılar",
   "home.growth.monthlyDevs": "Aylık Geliştiriciler",
 
   "home.privacy.title": "Gizlilik öncelikli tasarlandı",
   "home.privacy.body":
-    "Nexgen kodunuzu veya bağlam verilerinizi saklamaz; bu sayede gizliliğe duyarlı ortamlarda çalışabilir.",
+    "World Wide Open Code kodunuzu veya bağlam verilerinizi saklamaz; bu sayede gizliliğe duyarlı ortamlarda çalışabilir.",
   "home.privacy.learnMore": "Hakkında daha fazla bilgi:",
   "home.privacy.link": "gizlilik",
 
-  "home.faq.q1": "Nexgen nedir?",
+  "home.faq.q1": "World Wide Open Code nedir?",
   "home.faq.a1":
-    "Nexgen, herhangi bir AI modeliyle kod yazmanıza ve çalıştırmanıza yardım eden açık kaynaklı bir ajandır. Terminal arayüzü, masaüstü uygulaması veya IDE uzantısı olarak kullanılabilir.",
-  "home.faq.q2": "Nexgen'u nasıl kullanırım?",
+    "World Wide Open Code, herhangi bir AI modeliyle kod yazmanıza ve çalıştırmanıza yardım eden açık kaynaklı bir ajandır. Terminal arayüzü, masaüstü uygulaması veya IDE uzantısı olarak kullanılabilir.",
+  "home.faq.q2": "World Wide Open Code'u nasıl kullanırım?",
   "home.faq.a2.before": "Başlamanın en kolay yolu",
   "home.faq.a2.link": "girişi okumaktır",
-  "home.faq.q3": "Nexgen için ek AI aboneliklerine ihtiyacım var mı?",
-  "home.faq.a3.p1": "Şart değil. Nexgen, hesap açmadan kullanabileceğiniz ücretsiz modellerle gelir.",
+  "home.faq.q3": "World Wide Open Code için ek AI aboneliklerine ihtiyacım var mı?",
+  "home.faq.a3.p1": "Şart değil. World Wide Open Code, hesap açmadan kullanabileceğiniz ücretsiz modellerle gelir.",
   "home.faq.a3.p2.beforeZen": "Bunun dışında, popüler kodlama modellerini kullanmak için bir",
   "home.faq.a3.p2.afterZen": " hesabı oluşturabilirsiniz.",
-  "home.faq.a3.p3": "Zen'i öneriyoruz, ancak Nexgen OpenAI, Anthropic, xAI gibi popüler sağlayıcılarla da çalışır.",
+  "home.faq.a3.p3": "Zen'i öneriyoruz, ancak World Wide Open Code OpenAI, Anthropic, xAI gibi popüler sağlayıcılarla da çalışır.",
   "home.faq.a3.p4.beforeLocal": "Hatta",
   "home.faq.a3.p4.localLink": "yerel modellerinizi bağlayabilirsiniz",
-  "home.faq.q4": "Mevcut AI aboneliklerimi Nexgen ile kullanabilir miyim?",
+  "home.faq.q4": "Mevcut AI aboneliklerimi World Wide Open Code ile kullanabilir miyim?",
   "home.faq.a4.p1":
-    "Evet. Nexgen tüm büyük sağlayıcıların aboneliklerini destekler. Claude Pro/Max, ChatGPT Plus/Pro veya GitHub Copilot kullanabilirsiniz.",
-  "home.faq.q5": "Nexgen'u sadece terminalde mi kullanabilirim?",
-  "home.faq.a5.beforeDesktop": "Artık hayır! Nexgen artık sizin bu cihazlarınıza",
+    "Evet. World Wide Open Code tüm büyük sağlayıcıların aboneliklerini destekler. Claude Pro/Max, ChatGPT Plus/Pro veya GitHub Copilot kullanabilirsiniz.",
+  "home.faq.q5": "World Wide Open Code'u sadece terminalde mi kullanabilirim?",
+  "home.faq.a5.beforeDesktop": "Artık hayır! World Wide Open Code artık sizin bu cihazlarınıza",
   "home.faq.a5.desktop": "masaüstü",
   "home.faq.a5.and": "ve",
   "home.faq.a5.web": "web",
-  "home.faq.q6": "Nexgen ne kadar?",
+  "home.faq.q6": "World Wide Open Code ne kadar?",
   "home.faq.a6":
-    "Nexgen %100 ücretsizdir. Ayrıca ücretsiz model setiyle gelir. Başka bir sağlayıcı bağlarsanız ek maliyetler olabilir.",
+    "World Wide Open Code %100 ücretsizdir. Ayrıca ücretsiz model setiyle gelir. Başka bir sağlayıcı bağlarsanız ek maliyetler olabilir.",
   "home.faq.q7": "Veri ve gizlilik ne olacak?",
   "home.faq.a7.p1": "Verileriniz yalnızca ücretsiz modellerimizi kullandığınızda saklanır.",
   "home.faq.a7.p2.beforeModels": "Daha fazla bilgi:",
   "home.faq.a7.p2.modelsLink": "modellerimiz",
-  "home.faq.q8": "Nexgen açık kaynak mı?",
-  "home.faq.a8.p1": "Evet, Nexgen tamamen açık kaynaktır. Kaynak kodu",
+  "home.faq.q8": "World Wide Open Code açık kaynak mı?",
+  "home.faq.a8.p1": "Evet, World Wide Open Code tamamen açık kaynaktır. Kaynak kodu",
   "home.faq.a8.p2": "'da",
   "home.faq.a8.mitLicense": "MIT Lisansı",
   "home.faq.a8.p3":
@@ -136,23 +136,23 @@ export const dict = {
 
   "home.zenCta.title": "Kodlama ajanları için güvenilir, optimize modeller",
   "home.zenCta.body":
-    "Zen, Nexgen'un kodlama ajanları için özel olarak test edip benchmark ettiği seçilmiş AI modellerine erişim sağlar. Sağlayıcılar arasında tutarsız performans ve kalite konusunda endişelenmeyin; çalışan, doğrulanmış modelleri kullanın.",
+    "Zen, World Wide Open Code'un kodlama ajanları için özel olarak test edip benchmark ettiği seçilmiş AI modellerine erişim sağlar. Sağlayıcılar arasında tutarsız performans ve kalite konusunda endişelenmeyin; çalışan, doğrulanmış modelleri kullanın.",
   "home.zenCta.link": "Zen hakkında",
 
-  "zen.title": "Nexgen Zen | Kodlama ajanları için güvenilir, optimize edilmiş modellerin seçilmiş seti",
+  "zen.title": "World Wide Open Code Zen | Kodlama ajanları için güvenilir, optimize edilmiş modellerin seçilmiş seti",
   "zen.hero.title": "Kodlama ajanları için güvenilir, optimize modeller",
   "zen.hero.body":
-    "Zen, Nexgen'un kodlama ajanları için özel olarak test edip benchmark ettiği seçilmiş AI modellerine erişim sağlar. Sağlayıcılar arasında tutarsız performans ve kalite konusunda endişelenmeyin; çalışan, doğrulanmış modelleri kullanın.",
+    "Zen, World Wide Open Code'un kodlama ajanları için özel olarak test edip benchmark ettiği seçilmiş AI modellerine erişim sağlar. Sağlayıcılar arasında tutarsız performans ve kalite konusunda endişelenmeyin; çalışan, doğrulanmış modelleri kullanın.",
 
-  "zen.faq.q1": "Nexgen Zen nedir?",
+  "zen.faq.q1": "World Wide Open Code Zen nedir?",
   "zen.faq.a1":
-    "Zen, Nexgen ekibi tarafından oluşturulan ve kodlama ajanları için test edilip benchmark edilen seçilmiş bir AI model setidir.",
+    "Zen, World Wide Open Code ekibi tarafından oluşturulan ve kodlama ajanları için test edilip benchmark edilen seçilmiş bir AI model setidir.",
   "zen.faq.q2": "Zen'i daha doğru yapan nedir?",
   "zen.faq.a2":
     "Zen yalnızca kodlama ajanları için özel olarak test edilip benchmark edilmiş modelleri sunar. Biftek kesmek için tereyağı bıçağı kullanmazsın; kodlama için kötü modeller kullanma.",
   "zen.faq.q3": "Zen daha ucuz mu?",
   "zen.faq.a3":
-    "Zen kâr amaçlı değildir. Zen, model sağlayıcılarının maliyetlerini size yansıtır. Zen'in kullanımı arttıkça Nexgen daha iyi fiyatlar pazarlayabilir ve bunları size yansıtabilir.",
+    "Zen kâr amaçlı değildir. Zen, model sağlayıcılarının maliyetlerini size yansıtır. Zen'in kullanımı arttıkça World Wide Open Code daha iyi fiyatlar pazarlayabilir ve bunları size yansıtabilir.",
   "zen.faq.q4": "Zen ne kadar?",
   "zen.faq.a4.p1.beforePricing": "Zen",
   "zen.faq.a4.p1.pricingLink": "istek başı ücret alır",
@@ -161,7 +161,7 @@ export const dict = {
   "zen.faq.a4.p2.beforeAccount": "Toplam maliyetiniz kullanım miktarına bağlıdır ve aylık harcama limitlerini",
   "zen.faq.a4.p2.accountLink": "hesabınızda ayarlayabilirsiniz",
   "zen.faq.a4.p3":
-    "Maliyetleri karşılamak için Nexgen, $20 bakiye yüklemesi başına yalnızca $1.23 tutarında küçük bir ödeme işleme ücreti ekler.",
+    "Maliyetleri karşılamak için World Wide Open Code, $20 bakiye yüklemesi başına yalnızca $1.23 tutarında küçük bir ödeme işleme ücreti ekler.",
   "zen.faq.q5": "Veri ve gizlilik ne olacak?",
   "zen.faq.a5.beforeExceptions":
     "Tüm Zen modelleri ABD'de barındırılır. Sağlayıcılar sıfır-retention politikasını uygular ve verilerinizi model eğitimi için kullanmaz; şu",
@@ -173,7 +173,7 @@ export const dict = {
     "Evet, istediğiniz zaman faturalandırmayı devre dışı bırakabilir ve kalan bakiyenizi kullanabilirsiniz.",
   "zen.faq.q8": "Zen'i diğer kodlama ajanlarıyla kullanabilir miyim?",
   "zen.faq.a8":
-    "Zen Nexgen ile harika çalışır, ama Zen'i herhangi bir ajan ile kullanabilirsiniz. Tercih ettiğiniz kodlama ajanında kurulum talimatlarını izleyin.",
+    "Zen World Wide Open Code ile harika çalışır, ama Zen'i herhangi bir ajan ile kullanabilirsiniz. Tercih ettiğiniz kodlama ajanında kurulum talimatlarını izleyin.",
   "zen.faq.q9": "Para iadesi alabilir miyim?",
   "zen.faq.a9":
     "Ücret son 14 gün içinde tahsil edildiyse ve bu satın alımdan gelen kredilerin hiçbirini kullanmadıysanız para iadesine hak kazanabilirsiniz. {{contact}} ve para iadesi talep edin.",
@@ -186,12 +186,12 @@ export const dict = {
   "zen.problem.title": "Zen hangi sorunu çözüyor?",
   "zen.problem.body":
     "Pek çok model mevcut ancak yalnızca birkaçı kodlama ajanlarıyla iyi çalışıyor. Çoğu sağlayıcı, bunları değişen sonuçlarla farklı şekilde yapılandırır.",
-  "zen.problem.subtitle": "Bu sorunu yalnızca Nexgen kullanıcıları için değil, herkes için düzeltiyoruz.",
+  "zen.problem.subtitle": "Bu sorunu yalnızca World Wide Open Code kullanıcıları için değil, herkes için düzeltiyoruz.",
   "zen.problem.item1": "Seçilen modelleri test etme ve ekiplerine danışmanlık yapma",
   "zen.problem.item2": "Düzgün bir şekilde teslim edildiklerinden emin olmak için sağlayıcılarla çalışmak",
   "zen.problem.item3": "Önerdiğimiz tüm model-sağlayıcı kombinasyonlarının karşılaştırılması",
   "zen.how.title": "Zen nasıl çalışır?",
-  "zen.how.body": "Zen'i Nexgen ile kullanmanızı önersek de, Zen'i herhangi bir ajan ile kullanabilirsiniz.",
+  "zen.how.body": "Zen'i World Wide Open Code ile kullanmanızı önersek de, Zen'i herhangi bir ajan ile kullanabilirsiniz.",
   "zen.how.step1.title": "Kaydolun ve 20$ bakiye ekleyin",
   "zen.how.step1.beforeLink": "takip edin",
   "zen.how.step1.link": "kurulum talimatları",
@@ -206,7 +206,7 @@ export const dict = {
   "zen.privacy.exceptionsLink": "aşağıdaki istisnalar",
 
   "go.promo.minimaxM31FlashFree": "MiniMax M3.1 Flash Free artık Go'da sınırlı bir süre için ücretsiz sunuluyor.",
-  "go.title": "Nexgen Go | Herkes için düşük maliyetli kodlama modelleri",
+  "go.title": "World Wide Open Code Go | Herkes için düşük maliyetli kodlama modelleri",
   "go.meta.description":
     "Go ayda 10$'dır; cömert kullanım limitleri ve önde gelen kodlama modellerine güvenilir erişim sunar.",
   "go.hero.title": "Herkes için düşük maliyetli kodlama modelleri",
@@ -242,13 +242,13 @@ export const dict = {
 
   "go.problem.title": "Go hangi sorunu çözüyor?",
   "go.problem.body":
-    "Nexgen deneyimini mümkün olduğunca çok kişiye ulaştırmaya odaklandık. Nexgen Go, ayda 10$ olan düşük maliyetli bir aboneliktir. Cömert limitler ve en yetenekli açık kaynak modellere güvenilir erişim sağlar.",
+    "World Wide Open Code deneyimini mümkün olduğunca çok kişiye ulaştırmaya odaklandık. World Wide Open Code Go, ayda 10$ olan düşük maliyetli bir aboneliktir. Cömert limitler ve en yetenekli açık kaynak modellere güvenilir erişim sağlar.",
   "go.problem.item1": "Düşük maliyetli abonelik fiyatlandırması",
   "go.problem.item2": "Cömert limitler ve güvenilir erişim",
   "go.problem.item3": "Mümkün olduğunca çok programcı için geliştirildi",
   "go.problem.item4": "Ajan tabanlı kodlama için test edilmiş, özenle seçilmiş model seçenekleri",
   "go.how.title": "Go nasıl çalışır?",
-  "go.how.body": "Go ayda 10$'dır. Nexgen veya herhangi bir ajanla kullanabilirsiniz.",
+  "go.how.body": "Go ayda 10$'dır. World Wide Open Code veya herhangi bir ajanla kullanabilirsiniz.",
   "go.how.step1.title": "Bir hesap oluşturun",
   "go.how.step1.beforeLink": "takip edin",
   "go.how.step1.link": "kurulum talimatları",
@@ -257,7 +257,7 @@ export const dict = {
   "go.how.step2.afterLink": "cömert limitlerle",
   "go.how.step3.title": "Kodlamaya başlayın",
   "go.how.step3.body": "açık kaynaklı modellere güvenilir erişimle",
-  "go.faq.q1": "Nexgen Go nedir?",
+  "go.faq.q1": "World Wide Open Code Go nedir?",
   "go.faq.a1":
     "Go, ajan tabanlı kodlama için yetenekli açık kaynaklı modellere güvenilir erişim sağlayan düşük maliyetli bir aboneliktir.",
   "go.faq.q2": "Go hangi modelleri içerir?",
@@ -308,12 +308,12 @@ export const dict = {
   "go.faq.a10":
     "Ücret son 14 gün içinde tahsil edildiyse ve ilgili faturalandırma döneminde Go kullanım hakkınızı hiç kullanmadıysanız para iadesine hak kazanabilirsiniz. {{contact}} ve para iadesi talep edin.",
 
-  "download.title": "Nexgen | İndir",
-  "download.meta.description": "Nexgen'u macOS, Windows ve Linux için indirin",
-  "download.section.terminal": "Nexgen Terminal",
-  "download.section.desktop": "Nexgen Desktop",
-  "download.section.extensions": "Nexgen Eklentileri",
-  "download.section.integrations": "Nexgen Entegrasyonları",
+  "download.title": "World Wide Open Code | İndir",
+  "download.meta.description": "World Wide Open Code'u macOS, Windows ve Linux için indirin",
+  "download.section.terminal": "World Wide Open Code Terminal",
+  "download.section.desktop": "World Wide Open Code Desktop",
+  "download.section.extensions": "World Wide Open Code Eklentileri",
+  "download.section.integrations": "World Wide Open Code Entegrasyonları",
   "download.action.download": "İndir",
   "download.action.install": "Kur",
 
@@ -325,22 +325,22 @@ export const dict = {
   "download.platform.linuxRpm": "Linux (.rpm)",
 
   "download.faq.a3.beforeLocal":
-    "Tam olarak değil, ama muhtemelen. Nexgen'u ücretli bir sağlayıcıya bağlamak istiyorsanız bir AI aboneliği gerekir, ancak",
+    "Tam olarak değil, ama muhtemelen. World Wide Open Code'u ücretli bir sağlayıcıya bağlamak istiyorsanız bir AI aboneliği gerekir, ancak",
   "download.faq.a3.localLink": "yerel modeller",
   "download.faq.a3.afterLocal.beforeZen": "ile ücretsiz çalışabilirsiniz. Kullanıcıları",
   "download.faq.a3.afterZen":
-    " kullanmaya teşvik ediyoruz, ancak Nexgen OpenAI, Anthropic, xAI vb. gibi tüm popüler sağlayıcılarla çalışır.",
+    " kullanmaya teşvik ediyoruz, ancak World Wide Open Code OpenAI, Anthropic, xAI vb. gibi tüm popüler sağlayıcılarla çalışır.",
 
-  "download.faq.a5.p1": "Nexgen %100 ücretsizdir.",
+  "download.faq.a5.p1": "World Wide Open Code %100 ücretsizdir.",
   "download.faq.a5.p2.beforeZen":
-    "Ek maliyetler, bir model sağlayıcısına olan aboneliğinizden gelir. Nexgen herhangi bir model sağlayıcısıyla çalışır, ancak",
+    "Ek maliyetler, bir model sağlayıcısına olan aboneliğinizden gelir. World Wide Open Code herhangi bir model sağlayıcısıyla çalışır, ancak",
   "download.faq.a5.p2.afterZen": " kullanmanızı öneririz.",
 
-  "enterprise.title": "Nexgen | Kurumunuz için kurumsal çözümler",
-  "enterprise.meta.description": "Kurumsal çözümler için Nexgen ile iletişime geçin",
+  "enterprise.title": "World Wide Open Code | Kurumunuz için kurumsal çözümler",
+  "enterprise.meta.description": "Kurumsal çözümler için World Wide Open Code ile iletişime geçin",
   "enterprise.hero.title": "Kodunuz size aittir",
   "enterprise.hero.body1":
-    "Nexgen, hiçbir veri veya bağlam saklamadan ve lisans kısıtlamaları ya da sahiplik iddiaları olmadan kuruluşunuzun içinde güvenli şekilde çalışır. Ekibinizle bir deneme başlatın, ardından SSO'nuz ve dahili AI geçidiniz ile entegre ederek tüm kuruluşunuzda devreye alın.",
+    "World Wide Open Code, hiçbir veri veya bağlam saklamadan ve lisans kısıtlamaları ya da sahiplik iddiaları olmadan kuruluşunuzun içinde güvenli şekilde çalışır. Ekibinizle bir deneme başlatın, ardından SSO'nuz ve dahili AI geçidiniz ile entegre ederek tüm kuruluşunuzda devreye alın.",
   "enterprise.hero.body2": "Nasıl yardımcı olabileceğimizi bize söyleyin.",
   "enterprise.form.name.label": "Ad soyad",
   "enterprise.form.name.placeholder": "Jeff Bezos",
@@ -371,29 +371,29 @@ export const dict = {
   "enterprise.form.error.invalidInferenceSpend": "Geçerli bir çıkarım harcaması aralığı seçin.",
   "enterprise.form.error.internalServer": "İç sunucu hatası.",
   "enterprise.faq.title": "SSS",
-  "enterprise.faq.q1": "Nexgen Enterprise nedir?",
+  "enterprise.faq.q1": "World Wide Open Code Enterprise nedir?",
   "enterprise.faq.a1":
-    "Nexgen Enterprise, kodunuzun ve verilerinizin asla altyapınızı terk etmemesini sağlamak isteyen kurumlar içindir. Bunu, SSO'nuz ve dahili AI geçidiniz ile entegre olan merkezileştirilmiş bir konfigürasyonla sağlar.",
-  "enterprise.faq.q2": "Nexgen Enterprise'a nasıl başlarım?",
+    "World Wide Open Code Enterprise, kodunuzun ve verilerinizin asla altyapınızı terk etmemesini sağlamak isteyen kurumlar içindir. Bunu, SSO'nuz ve dahili AI geçidiniz ile entegre olan merkezileştirilmiş bir konfigürasyonla sağlar.",
+  "enterprise.faq.q2": "World Wide Open Code Enterprise'a nasıl başlarım?",
   "enterprise.faq.a2":
-    "Ekibinizle dahili bir deneme ile başlayın. Nexgen varsayılan olarak kodunuzu veya bağlam verilerinizi saklamaz, bu da başlamayı kolaylaştırır. Ardından fiyatlandırma ve uygulama seçeneklerini görüşmek için bize ulaşın.",
+    "Ekibinizle dahili bir deneme ile başlayın. World Wide Open Code varsayılan olarak kodunuzu veya bağlam verilerinizi saklamaz, bu da başlamayı kolaylaştırır. Ardından fiyatlandırma ve uygulama seçeneklerini görüşmek için bize ulaşın.",
   "enterprise.faq.q3": "Kurumsal fiyatlandırma nasıl çalışır?",
   "enterprise.faq.a3":
     "Kullanıcı başı (per-seat) kurumsal fiyatlandırma sunuyoruz. Kendi LLM geçidiniz varsa, kullanılan tokenlar için ücret almıyoruz. Daha fazla bilgi için, kurumunuzun ihtiyaçlarına göre özel bir teklif için bize ulaşın.",
-  "enterprise.faq.q4": "Nexgen Enterprise ile verilerim güvende mi?",
+  "enterprise.faq.q4": "World Wide Open Code Enterprise ile verilerim güvende mi?",
   "enterprise.faq.a4":
-    "Evet. Nexgen kodunuzu veya bağlam verilerinizi saklamaz. Tüm işleme yerel olarak ya da AI sağlayıcınıza doğrudan API çağrıları ile gerçekleştirilir. Merkezileştirilmiş konfigürasyon ve SSO entegrasyonu ile verileriniz kurumunuzun altyapısı içinde güvende kalır.",
+    "Evet. World Wide Open Code kodunuzu veya bağlam verilerinizi saklamaz. Tüm işleme yerel olarak ya da AI sağlayıcınıza doğrudan API çağrıları ile gerçekleştirilir. Merkezileştirilmiş konfigürasyon ve SSO entegrasyonu ile verileriniz kurumunuzun altyapısı içinde güvende kalır.",
 
-  "brand.title": "Nexgen | Marka",
-  "brand.meta.description": "Nexgen marka kılavuzu",
+  "brand.title": "World Wide Open Code | Marka",
+  "brand.meta.description": "World Wide Open Code marka kılavuzu",
   "brand.heading": "Marka kılavuzu",
-  "brand.subtitle": "Nexgen markası ile çalışmanıza yardımcı olacak kaynaklar ve varlıklar.",
+  "brand.subtitle": "World Wide Open Code markası ile çalışmanıza yardımcı olacak kaynaklar ve varlıklar.",
   "brand.downloadAll": "Tüm varlıkları indir",
 
-  "changelog.title": "Nexgen | Değişiklik günlüğü",
-  "changelog.meta.description": "Nexgen sürüm notları ve değişiklik günlüğü",
+  "changelog.title": "World Wide Open Code | Değişiklik günlüğü",
+  "changelog.meta.description": "World Wide Open Code sürüm notları ve değişiklik günlüğü",
   "changelog.hero.title": "Değişiklik günlüğü",
-  "changelog.hero.subtitle": "Nexgen için yeni güncellemeler ve iyileştirmeler",
+  "changelog.hero.subtitle": "World Wide Open Code için yeni güncellemeler ve iyileştirmeler",
   "changelog.empty": "Değişiklik günlüğü kaydı bulunamadı.",
   "changelog.viewJson": "JSON'u görüntüle",
 } satisfies Dict

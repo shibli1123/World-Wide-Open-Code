@@ -13,9 +13,9 @@ import { CLI_BINARIES, nodePtyPackage } from "./scripts/utils"
 const { FileMatcher } = createRequire(import.meta.resolve("electron-builder"))("app-builder-lib/out/fileMatcher")
 
 const channels = [
-  { channel: "dev", appId: "io.github.shibli1123.nexgen.desktop.dev" },
-  { channel: "beta", appId: "io.github.shibli1123.nexgen.desktop.beta" },
-  { channel: "prod", appId: "io.github.shibli1123.nexgen.desktop" },
+  { channel: "dev", appId: "io.github.shibli1123.wwoc.desktop.dev" },
+  { channel: "beta", appId: "io.github.shibli1123.wwoc.desktop.beta" },
+  { channel: "prod", appId: "io.github.shibli1123.wwoc.desktop" },
 ] as const
 
 function load(channel: string, target?: string): Configuration {
@@ -64,9 +64,9 @@ test.each(channels)("channel identity for $channel", ({ channel, appId }) => {
 
 test("legacy Linux launcher stays hidden", async () => {
   const desktop = await Bun.file(path.join(import.meta.dirname, "resources/linux/opencode-desktop.desktop")).text()
-  expect(desktop).toContain("Exec=/opt/Nexgen/io.github.shibli1123.nexgen.desktop %U")
-  expect(desktop).toContain("Icon=io.github.shibli1123.nexgen.desktop")
-  expect(desktop).toContain("StartupWMClass=io.github.shibli1123.nexgen.desktop")
+  expect(desktop).toContain("Exec=/opt/World Wide Open Code/io.github.shibli1123.wwoc.desktop %U")
+  expect(desktop).toContain("Icon=io.github.shibli1123.wwoc.desktop")
+  expect(desktop).toContain("StartupWMClass=io.github.shibli1123.wwoc.desktop")
   expect(desktop).toContain("NoDisplay=true")
 })
 

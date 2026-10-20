@@ -64,16 +64,16 @@ function resolveChannel() {
 }
 
 const APP_IDS = {
-  dev: "io.github.shibli1123.nexgen.desktop.dev",
-  beta: "io.github.shibli1123.nexgen.desktop.beta",
-  prod: "io.github.shibli1123.nexgen.desktop",
+  dev: "io.github.shibli1123.wwoc.desktop.dev",
+  beta: "io.github.shibli1123.wwoc.desktop.beta",
+  prod: "io.github.shibli1123.wwoc.desktop",
 } as const
 
 const getBase = (appId: string): Configuration => {
   const target = getCurrentCli()
 
   return {
-    artifactName: "nexgen-desktop-${os}-${arch}.${ext}",
+    artifactName: "wwoc-desktop-${os}-${arch}.${ext}",
     directories: {
       output: "dist",
       buildResources: "resources",
@@ -177,8 +177,8 @@ const getBase = (appId: string): Configuration => {
       target: ["dmg", "zip"],
     },
     protocols: {
-      name: "Nexgen",
-      schemes: ["nexgen", "opencode"],
+      name: "World Wide Open Code",
+      schemes: ["wwoc", "opencode"],
     },
     win: {
       icon: `resources/icons/icon.ico`,
@@ -221,9 +221,9 @@ export function getConfig() {
       return {
         ...base,
         appId,
-        productName: "Nexgen Dev",
+        productName: "World Wide Open Code Dev",
         deb: { fpm: [metainfoFpm(appId)] },
-        rpm: { packageName: "nexgen-dev", fpm: [metainfoFpm(appId)] },
+        rpm: { packageName: "wwoc-dev", fpm: [metainfoFpm(appId)] },
       }
     }
 
@@ -231,8 +231,8 @@ export function getConfig() {
       return {
         ...base,
         appId,
-        productName: "Nexgen Beta",
-        protocols: { name: "Nexgen Beta", schemes: ["nexgen", "opencode"] },
+        productName: "World Wide Open Code Beta",
+        protocols: { name: "World Wide Open Code Beta", schemes: ["wwoc", "opencode"] },
         publish: {
           provider: "github",
           owner: "shibli1123",
@@ -240,7 +240,7 @@ export function getConfig() {
           channel: "beta",
         },
         deb: { fpm: [metainfoFpm(appId)] },
-        rpm: { packageName: "nexgen-beta", fpm: [metainfoFpm(appId)] },
+        rpm: { packageName: "wwoc-beta", fpm: [metainfoFpm(appId)] },
       }
     }
 
@@ -248,8 +248,8 @@ export function getConfig() {
       return {
         ...base,
         appId,
-        productName: "Nexgen",
-        protocols: { name: "Nexgen", schemes: ["nexgen", "opencode"] },
+        productName: "World Wide Open Code",
+        protocols: { name: "World Wide Open Code", schemes: ["wwoc", "opencode"] },
         publish: {
           provider: "github",
           owner: "shibli1123",
@@ -257,7 +257,7 @@ export function getConfig() {
           channel: "latest",
         },
         deb: { fpm: [metainfoFpm(appId), legacyDesktopEntryFpm] },
-        rpm: { packageName: "nexgen", fpm: [metainfoFpm(appId), legacyDesktopEntryFpm] },
+        rpm: { packageName: "wwoc", fpm: [metainfoFpm(appId), legacyDesktopEntryFpm] },
       }
     }
   }

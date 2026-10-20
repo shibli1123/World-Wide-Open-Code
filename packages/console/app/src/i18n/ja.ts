@@ -15,7 +15,7 @@ export const dict = {
   "nav.home": "ホーム",
   "nav.openMenu": "メニューを開く",
   "nav.getStartedFree": "無料ではじめる",
-  "nav.logoAlt": "Nexgen",
+  "nav.logoAlt": "World Wide Open Code",
 
   "nav.context.copyLogo": "ロゴをSVGでコピー",
   "nav.context.copyWordmark": "ワードマークをSVGでコピー",
@@ -38,7 +38,7 @@ export const dict = {
   "email.success": "ほぼ完了です。受信トレイを確認してメールアドレスを認証してください",
   "email.error": "登録できませんでした。もう一度お試しください。",
 
-  "notFound.title": "見つかりません | Nexgen",
+  "notFound.title": "見つかりません | World Wide Open Code",
   "notFound.heading": "404 - ページが見つかりません",
   "notFound.home": "ホーム",
   "notFound.docs": "ドキュメント",
@@ -55,9 +55,9 @@ export const dict = {
   "common.faq": "FAQ",
   "common.learnMore": "詳しく見る",
 
-  "app.meta.description": "Nexgen - オープンソースのコーディングエージェント。",
+  "app.meta.description": "World Wide Open Code - オープンソースのコーディングエージェント。",
 
-  "home.title": "Nexgen | オープンソースのAIコーディングエージェント",
+  "home.title": "World Wide Open Code | オープンソースのAIコーディングエージェント",
 
   "home.banner.badge": "新着",
 
@@ -67,9 +67,9 @@ export const dict = {
 
   "home.install.ariaLabel": "インストールオプション",
 
-  "home.what.title": "Nexgenとは？",
+  "home.what.title": "World Wide Open Codeとは？",
   "home.what.body":
-    "Nexgenは、ターミナル、IDE、またはデスクトップでのコード作成を支援するオープンソースのエージェントです。",
+    "World Wide Open Codeは、ターミナル、IDE、またはデスクトップでのコード作成を支援するオープンソースのエージェントです。",
   "home.what.lsp.title": "LSP対応",
   "home.what.lsp.body": "LLMに適したLSPを自動的に読み込みます",
   "home.what.multiSession.title": "マルチセッション",
@@ -95,41 +95,41 @@ export const dict = {
 
   "home.privacy.title": "プライバシーを最優先に設計",
   "home.privacy.body":
-    "Nexgenはコードやコンテキストデータを一切保存しないため、プライバシーが重視される環境でも利用できます。",
+    "World Wide Open Codeはコードやコンテキストデータを一切保存しないため、プライバシーが重視される環境でも利用できます。",
   "home.privacy.learnMore": "詳しくは",
   "home.privacy.link": "プライバシー",
 
-  "home.faq.q1": "Nexgenとは？",
+  "home.faq.q1": "World Wide Open Codeとは？",
   "home.faq.a1":
-    "Nexgenは、任意のAIモデルでコードの作成・実行を支援するオープンソースのエージェントです。ターミナルベースのインターフェース、デスクトップアプリ、IDE拡張として利用できます。",
-  "home.faq.q2": "Nexgenの使い方は？",
+    "World Wide Open Codeは、任意のAIモデルでコードの作成・実行を支援するオープンソースのエージェントです。ターミナルベースのインターフェース、デスクトップアプリ、IDE拡張として利用できます。",
+  "home.faq.q2": "World Wide Open Codeの使い方は？",
   "home.faq.a2.before": "最も簡単な始め方は",
   "home.faq.a2.link": "イントロを読む",
-  "home.faq.q3": "Nexgenには追加のAIサブスクリプションが必要ですか？",
-  "home.faq.a3.p1": "必ずしも必要ではありません。Nexgenには、アカウント不要で使える無料モデルが含まれています。",
+  "home.faq.q3": "World Wide Open Codeには追加のAIサブスクリプションが必要ですか？",
+  "home.faq.a3.p1": "必ずしも必要ではありません。World Wide Open Codeには、アカウント不要で使える無料モデルが含まれています。",
   "home.faq.a3.p2.beforeZen": "これらに加えて、",
   "home.faq.a3.p2.afterZen": " アカウントを作成することで、人気のコーディングモデルを利用できます。",
   "home.faq.a3.p3":
-    "Zenの利用を推奨していますが、NexgenはOpenAI、Anthropic、xAIなどの主要プロバイダーにも対応しています。",
+    "Zenの利用を推奨していますが、World Wide Open CodeはOpenAI、Anthropic、xAIなどの主要プロバイダーにも対応しています。",
   "home.faq.a3.p4.beforeLocal": "さらに、",
   "home.faq.a3.p4.localLink": "ローカルモデル",
-  "home.faq.q4": "既存のAIサブスクリプションをNexgenで使えますか？",
+  "home.faq.q4": "既存のAIサブスクリプションをWorld Wide Open Codeで使えますか？",
   "home.faq.a4.p1":
-    "はい、Nexgenは主要プロバイダーのサブスクリプションプランに対応しています。Claude Pro/Max、ChatGPT Plus/Pro、GitHub Copilotのサブスクリプションを利用できます。",
+    "はい、World Wide Open Codeは主要プロバイダーのサブスクリプションプランに対応しています。Claude Pro/Max、ChatGPT Plus/Pro、GitHub Copilotのサブスクリプションを利用できます。",
   "home.faq.q5": "ターミナルだけで使えますか？",
-  "home.faq.a5.beforeDesktop": "もう違います！Nexgenは今は",
+  "home.faq.a5.beforeDesktop": "もう違います！World Wide Open Codeは今は",
   "home.faq.a5.desktop": "デスクトップ",
   "home.faq.a5.and": "と",
   "home.faq.a5.web": "ウェブ",
-  "home.faq.q6": "Nexgenの価格は？",
+  "home.faq.q6": "World Wide Open Codeの価格は？",
   "home.faq.a6":
-    "Nexgenは100%無料で使えます。無料モデルも含まれています。他のプロバイダーに接続する場合は追加費用が発生することがあります。",
+    "World Wide Open Codeは100%無料で使えます。無料モデルも含まれています。他のプロバイダーに接続する場合は追加費用が発生することがあります。",
   "home.faq.q7": "データとプライバシーは？",
   "home.faq.a7.p1": "無料モデルを使う場合にのみ、データが保存されます。",
   "home.faq.a7.p2.beforeModels": "詳しくは",
   "home.faq.a7.p2.modelsLink": "モデルのプライバシー",
-  "home.faq.q8": "Nexgenはオープンソースですか？",
-  "home.faq.a8.p1": "はい、Nexgenは完全にオープンソースです。ソースコードは",
+  "home.faq.q8": "World Wide Open Codeはオープンソースですか？",
+  "home.faq.a8.p1": "はい、World Wide Open Codeは完全にオープンソースです。ソースコードは",
   "home.faq.a8.p2": "の",
   "home.faq.a8.mitLicense": "MITライセンス",
   "home.faq.a8.p3":
@@ -137,30 +137,30 @@ export const dict = {
 
   "home.zenCta.title": "コーディングエージェント向けの信頼できる最適化モデル",
   "home.zenCta.body":
-    "Zenは、Nexgenがコーディングエージェント向けにテスト・ベンチマーク済みのAIモデルを厳選して提供します。プロバイダー間の性能・品質のブレを気にせず、検証済みのモデルを利用できます。",
+    "Zenは、World Wide Open Codeがコーディングエージェント向けにテスト・ベンチマーク済みのAIモデルを厳選して提供します。プロバイダー間の性能・品質のブレを気にせず、検証済みのモデルを利用できます。",
   "home.zenCta.link": "Zenについて知る",
 
-  "zen.title": "Nexgen Zen | コーディングエージェント向けの信頼できる最適化モデル",
+  "zen.title": "World Wide Open Code Zen | コーディングエージェント向けの信頼できる最適化モデル",
   "zen.hero.title": "コーディングエージェント向けの信頼できる最適化モデル",
   "zen.hero.body":
-    "Zenは、Nexgenがコーディングエージェント向けにテスト・ベンチマーク済みのAIモデルを厳選して提供します。プロバイダー間の性能・品質のブレを気にせず、検証済みのモデルを利用できます。",
+    "Zenは、World Wide Open Codeがコーディングエージェント向けにテスト・ベンチマーク済みのAIモデルを厳選して提供します。プロバイダー間の性能・品質のブレを気にせず、検証済みのモデルを利用できます。",
 
-  "zen.faq.q1": "Nexgen Zenとは？",
+  "zen.faq.q1": "World Wide Open Code Zenとは？",
   "zen.faq.a1":
-    "Zenは、Nexgenのチームが作成した、コーディングエージェント向けにテスト・ベンチマークされたAIモデルの厳選セットです。",
+    "Zenは、World Wide Open Codeのチームが作成した、コーディングエージェント向けにテスト・ベンチマークされたAIモデルの厳選セットです。",
   "zen.faq.q2": "Zenはなぜ精度が高いのですか？",
   "zen.faq.a2":
     "Zenはコーディングエージェント向けにテスト・ベンチマークされたモデルだけを提供します。ステーキを切るのにバターナイフを使わないように、コーディングには品質の低いモデルを使わないでください。",
   "zen.faq.q3": "Zenは安いですか？",
   "zen.faq.a3":
-    "Zenは営利目的ではありません。Zenはモデル提供元のコストをそのままあなたに渡します。Zenの利用が増えるほど、Nexgenはより良いレートを交渉し、その分をあなたに還元できます。",
+    "Zenは営利目的ではありません。Zenはモデル提供元のコストをそのままあなたに渡します。Zenの利用が増えるほど、World Wide Open Codeはより良いレートを交渉し、その分をあなたに還元できます。",
   "zen.faq.q4": "Zenの料金は？",
   "zen.faq.a4.p1.beforePricing": "Zenは",
   "zen.faq.a4.p1.pricingLink": "リクエスト単位で課金",
   "zen.faq.a4.p1.afterPricing": "し、マークアップはありません。つまり、モデル提供元の請求額をそのまま支払います。",
   "zen.faq.a4.p2.beforeAccount": "総コストは利用量に依存し、月次の支出上限を",
   "zen.faq.a4.p2.accountLink": "アカウント",
-  "zen.faq.a4.p3": "コストを賄うために、Nexgenは$20の残高チャージあたり$1.23の小さな決済手数料のみを追加します。",
+  "zen.faq.a4.p3": "コストを賄うために、World Wide Open Codeは$20の残高チャージあたり$1.23の小さな決済手数料のみを追加します。",
   "zen.faq.q5": "データとプライバシーは？",
   "zen.faq.a5.beforeExceptions":
     "Zenのモデルはすべて米国でホストされています。プロバイダーはゼロ保持ポリシーを守り、データをモデル学習に使用しません（",
@@ -171,7 +171,7 @@ export const dict = {
   "zen.faq.a7": "はい、いつでも請求を無効化し、残りの残高を利用できます。",
   "zen.faq.q8": "他のコーディングエージェントでもZenを使えますか？",
   "zen.faq.a8":
-    "ZenはNexgenとの相性が良いですが、どのエージェントでもZenを利用できます。お使いのコーディングエージェントのセットアップ手順に従ってください。",
+    "ZenはWorld Wide Open Codeとの相性が良いですが、どのエージェントでもZenを利用できます。お使いのコーディングエージェントのセットアップ手順に従ってください。",
   "zen.faq.q9": "返金を受けられますか？",
   "zen.faq.a9":
     "請求から14日以内で、その購入分のクレジットを一切使用していない場合、返金の対象となる可能性があります。返金を希望する場合は、{{contact}}ください。",
@@ -184,12 +184,12 @@ export const dict = {
   "zen.problem.title": "Zenはどのような問題を解決していますか？",
   "zen.problem.body":
     "利用可能なモデルは非常に多くありますが、コーディングエージェントで適切に機能するモデルはほんのわずかです。ほとんどのプロバイダーは、それらを異なる設定で提供し、結果も異なります。",
-  "zen.problem.subtitle": "Nexgenユーザーだけでなく、すべての人を対象にこの問題を修正しています。",
+  "zen.problem.subtitle": "World Wide Open Codeユーザーだけでなく、すべての人を対象にこの問題を修正しています。",
   "zen.problem.item1": "選択したモデルをテストし、チームに相談する",
   "zen.problem.item2": "プロバイダーと連携して適切に提供されるようにする",
   "zen.problem.item3": "私たちが推奨するすべてのモデルとプロバイダーの組み合わせをベンチマークする",
   "zen.how.title": "Zenの仕組み",
-  "zen.how.body": "ZenをNexgenとともに使用することをお勧めしますが、Zenはどのエージェントでも使用できます。",
+  "zen.how.body": "ZenをWorld Wide Open Codeとともに使用することをお勧めしますが、Zenはどのエージェントでも使用できます。",
   "zen.how.step1.title": "サインアップして$20の残高を追加",
   "zen.how.step1.beforeLink": "",
   "zen.how.step1.link": "セットアップ手順",
@@ -204,7 +204,7 @@ export const dict = {
   "zen.privacy.exceptionsLink": "以下の例外",
 
   "go.promo.minimaxM31FlashFree": "MiniMax M3.1 Flash Free を Go で期間限定・無料で提供中です。",
-  "go.title": "Nexgen Go | すべての人のための低価格なコーディングモデル",
+  "go.title": "World Wide Open Code Go | すべての人のための低価格なコーディングモデル",
   "go.meta.description":
     "Goは月額$10で、主要なコーディングモデルへのゆとりある利用上限と安定したアクセスを提供します。",
   "go.hero.title": "すべての人のための低価格なコーディングモデル",
@@ -240,13 +240,13 @@ export const dict = {
 
   "go.problem.title": "Goはどのような問題を解決していますか？",
   "go.problem.body":
-    "私たちはNexgenの体験をできるだけ多くの人に届けることに注力しています。Nexgen Goは月額$10の低価格なサブスクリプションです。ゆとりある上限と、最も高性能なオープンソースモデルへの信頼できるアクセスを提供します。",
+    "私たちはWorld Wide Open Codeの体験をできるだけ多くの人に届けることに注力しています。World Wide Open Code Goは月額$10の低価格なサブスクリプションです。ゆとりある上限と、最も高性能なオープンソースモデルへの信頼できるアクセスを提供します。",
   "go.problem.item1": "低価格なサブスクリプション料金",
   "go.problem.item2": "十分な制限と安定したアクセス",
   "go.problem.item3": "できるだけ多くのプログラマーのために構築",
   "go.problem.item4": "エージェント型コーディング向けにテストされた厳選モデルラインナップ",
   "go.how.title": "Goの仕組み",
-  "go.how.body": "Goは月額$10です。Nexgenまたは任意のエージェントで使えます。",
+  "go.how.body": "Goは月額$10です。World Wide Open Codeまたは任意のエージェントで使えます。",
   "go.how.step1.title": "アカウントを作成",
   "go.how.step1.beforeLink": "",
   "go.how.step1.link": "セットアップ手順はこちら",
@@ -255,7 +255,7 @@ export const dict = {
   "go.how.step2.afterLink": "ゆとりある上限付き",
   "go.how.step3.title": "コーディングを開始",
   "go.how.step3.body": "オープンソースモデルへの安定したアクセスで",
-  "go.faq.q1": "Nexgen Goとは？",
+  "go.faq.q1": "World Wide Open Code Goとは？",
   "go.faq.a1":
     "Goは、エージェント型コーディングのための有能なオープンソースモデルへの安定したアクセスを提供する低価格なサブスクリプションです。",
   "go.faq.q2": "Goにはどのモデルが含まれますか？",
@@ -302,12 +302,12 @@ export const dict = {
   "go.faq.a10":
     "請求から14日以内で、その請求期間中にGoの利用枠を一切使用していない場合、返金の対象となる可能性があります。返金を希望する場合は、{{contact}}ください。",
 
-  "download.title": "Nexgen | ダウンロード",
-  "download.meta.description": "Nexgen を macOS、Windows、Linux 向けにダウンロード",
-  "download.section.terminal": "Nexgen Terminal",
-  "download.section.desktop": "Nexgen Desktop",
-  "download.section.extensions": "Nexgen Extensions",
-  "download.section.integrations": "Nexgen Integrations",
+  "download.title": "World Wide Open Code | ダウンロード",
+  "download.meta.description": "World Wide Open Code を macOS、Windows、Linux 向けにダウンロード",
+  "download.section.terminal": "World Wide Open Code Terminal",
+  "download.section.desktop": "World Wide Open Code Desktop",
+  "download.section.extensions": "World Wide Open Code Extensions",
+  "download.section.integrations": "World Wide Open Code Integrations",
   "download.action.download": "ダウンロード",
   "download.action.install": "インストール",
 
@@ -319,22 +319,22 @@ export const dict = {
   "download.platform.linuxRpm": "Linux (.rpm)",
 
   "download.faq.a3.beforeLocal":
-    "必ずしもそうではありませんが、おそらく必要です。Nexgenを有料プロバイダーに接続したい場合はAIサブスクリプションが必要ですが、",
+    "必ずしもそうではありませんが、おそらく必要です。World Wide Open Codeを有料プロバイダーに接続したい場合はAIサブスクリプションが必要ですが、",
   "download.faq.a3.localLink": "ローカルモデル",
   "download.faq.a3.afterLocal.beforeZen": "であれば無料で利用できます。ユーザーには",
   "download.faq.a3.afterZen":
-    "の利用をお勧めしていますが、NexgenはOpenAI、Anthropic、xAIなどの主要なプロバイダーに対応しています。",
+    "の利用をお勧めしていますが、World Wide Open CodeはOpenAI、Anthropic、xAIなどの主要なプロバイダーに対応しています。",
 
-  "download.faq.a5.p1": "Nexgenは100%無料で利用できます。",
+  "download.faq.a5.p1": "World Wide Open Codeは100%無料で利用できます。",
   "download.faq.a5.p2.beforeZen":
-    "追加コストはモデルプロバイダーのサブスクリプションから発生します。Nexgenはどのモデルプロバイダーでも利用できますが、",
+    "追加コストはモデルプロバイダーのサブスクリプションから発生します。World Wide Open Codeはどのモデルプロバイダーでも利用できますが、",
   "download.faq.a5.p2.afterZen": "の利用をおすすめします。",
 
-  "enterprise.title": "Nexgen | 組織向けエンタープライズソリューション",
-  "enterprise.meta.description": "エンタープライズソリューションについてNexgenに問い合わせる",
+  "enterprise.title": "World Wide Open Code | 組織向けエンタープライズソリューション",
+  "enterprise.meta.description": "エンタープライズソリューションについてWorld Wide Open Codeに問い合わせる",
   "enterprise.hero.title": "あなたのコードはあなたのもの",
   "enterprise.hero.body1":
-    "Nexgenは、データやコンテキストを一切保存せず、ライセンス制限や所有権の主張もなく、組織内で安全に動作します。チームでのトライアルから始め、SSOや社内AIゲートウェイと統合して組織全体に展開できます。",
+    "World Wide Open Codeは、データやコンテキストを一切保存せず、ライセンス制限や所有権の主張もなく、組織内で安全に動作します。チームでのトライアルから始め、SSOや社内AIゲートウェイと統合して組織全体に展開できます。",
   "enterprise.hero.body2": "どのような支援ができるか、お聞かせください。",
   "enterprise.form.name.label": "氏名",
   "enterprise.form.name.placeholder": "ジェフ・ベゾス",
@@ -365,29 +365,29 @@ export const dict = {
   "enterprise.form.error.invalidInferenceSpend": "有効な推論費用の範囲を選択してください。",
   "enterprise.form.error.internalServer": "内部サーバーエラー。",
   "enterprise.faq.title": "FAQ",
-  "enterprise.faq.q1": "Nexgen Enterpriseとは？",
+  "enterprise.faq.q1": "World Wide Open Code Enterpriseとは？",
   "enterprise.faq.a1":
-    "Nexgen Enterpriseは、コードとデータが決してインフラの外に出ないことを保証したい組織向けです。SSOや社内AIゲートウェイと統合する集中設定を使用することでこれを実現します。",
-  "enterprise.faq.q2": "Nexgen Enterpriseを始めるには？",
+    "World Wide Open Code Enterpriseは、コードとデータが決してインフラの外に出ないことを保証したい組織向けです。SSOや社内AIゲートウェイと統合する集中設定を使用することでこれを実現します。",
+  "enterprise.faq.q2": "World Wide Open Code Enterpriseを始めるには？",
   "enterprise.faq.a2":
-    "まずはチームでの社内トライアルから始めてください。Nexgenはデフォルトでコードやコンテキストデータを保存しないため、簡単に始められます。その後、価格や導入オプションについてお問い合わせください。",
+    "まずはチームでの社内トライアルから始めてください。World Wide Open Codeはデフォルトでコードやコンテキストデータを保存しないため、簡単に始められます。その後、価格や導入オプションについてお問い合わせください。",
   "enterprise.faq.q3": "エンタープライズ価格の仕組みは？",
   "enterprise.faq.a3":
     "シート単位（ユーザー数）でのエンタープライズ価格を提供します。独自のLLMゲートウェイをお持ちの場合、使用トークンに対する課金はありません。詳細は、組織の要件に基づいた見積もりのためにお問い合わせください。",
-  "enterprise.faq.q4": "Nexgen Enterpriseでデータは安全ですか？",
+  "enterprise.faq.q4": "World Wide Open Code Enterpriseでデータは安全ですか？",
   "enterprise.faq.a4":
-    "はい。Nexgenはコードやコンテキストデータを保存しません。すべての処理はローカル、またはAIプロバイダーへの直接API呼び出しを通じて行われます。集中設定とSSO統合により、データは組織のインフラ内で安全に保たれます。",
+    "はい。World Wide Open Codeはコードやコンテキストデータを保存しません。すべての処理はローカル、またはAIプロバイダーへの直接API呼び出しを通じて行われます。集中設定とSSO統合により、データは組織のインフラ内で安全に保たれます。",
 
-  "brand.title": "Nexgen | ブランド",
-  "brand.meta.description": "Nexgen ブランドガイドライン",
+  "brand.title": "World Wide Open Code | ブランド",
+  "brand.meta.description": "World Wide Open Code ブランドガイドライン",
   "brand.heading": "ブランドガイドライン",
-  "brand.subtitle": "Nexgenブランドを扱うためのリソースと素材です。",
+  "brand.subtitle": "World Wide Open Codeブランドを扱うためのリソースと素材です。",
   "brand.downloadAll": "すべての素材をダウンロード",
 
-  "changelog.title": "Nexgen | 変更履歴",
-  "changelog.meta.description": "Nexgen リリースノートと変更履歴",
+  "changelog.title": "World Wide Open Code | 変更履歴",
+  "changelog.meta.description": "World Wide Open Code リリースノートと変更履歴",
   "changelog.hero.title": "変更履歴",
-  "changelog.hero.subtitle": "Nexgenの新しいアップデートと改善",
+  "changelog.hero.subtitle": "World Wide Open Codeの新しいアップデートと改善",
   "changelog.empty": "変更履歴が見つかりませんでした。",
   "changelog.viewJson": "JSONを表示",
 } satisfies Dict

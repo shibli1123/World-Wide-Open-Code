@@ -4,9 +4,9 @@ const arg = process.argv[2]
 
 const channel = arg === "dev" || arg === "beta" || arg === "prod" ? arg : resolveChannel()
 
-const appId = channel === "prod" ? "io.github.shibli1123.nexgen.desktop" : `io.github.shibli1123.nexgen.desktop.${channel}`
+const appId = channel === "prod" ? "io.github.shibli1123.wwoc.desktop" : `io.github.shibli1123.wwoc.desktop.${channel}`
 
-const productName = channel === "prod" ? "Nexgen" : `Nexgen ${channel.charAt(0).toUpperCase() + channel.slice(1)}`
+const productName = channel === "prod" ? "World Wide Open Code" : `World Wide Open Code ${channel.charAt(0).toUpperCase() + channel.slice(1)}`
 
 const summary = `Open source code collaboration workspace${channel !== "prod" ? ` (${channel})` : ""}`
 
@@ -26,7 +26,7 @@ const xml = `<?xml version="1.0" encoding="UTF-8"?>
 
   <description>
     <p>
-      Nexgen is an open source code hub and AI-assisted development workspace maintained by Shibli Sanjid Faheem.
+      World Wide Open Code is an open source code hub and AI-assisted development workspace maintained by Shibli Sanjid Faheem.
     </p>
   </description>
 

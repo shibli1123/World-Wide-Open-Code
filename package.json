@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "nexgen",
+  "name": "world-wide-open-code",
   "description": "Global AI-powered code collaboration hub",
   "version": "2.0.32",
   "private": true,

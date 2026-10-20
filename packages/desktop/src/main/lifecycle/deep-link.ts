@@ -2,7 +2,7 @@ export function consoleReturnWindow(value: string) {
   try {
     const url = new URL(value)
 
-    if (url.protocol !== "nexgen:" && url.protocol !== "opencode:") return
+    if (url.protocol !== "wwoc:" && url.protocol !== "opencode:") return
     if (url.hostname !== "console" || url.pathname !== "/authorized") return
     const id = url.searchParams.get("window")
 

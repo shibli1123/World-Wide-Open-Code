@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="54" viewBox="0 0 430 54" role="img" aria-label="World Wide Open Code">
+  <rect x="2" y="4" width="46" height="46" rx="13" fill="#15131c"/>
+  <path d="M13 39V15h6l17 18V15h6v24h-6L19 21v18z" fill="#f5f3fa"/>
+  <path d="M36 15h6v3h-6z" fill="#a08cff"/>
+  <text x="60" y="36" fill="#f2effa" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="-0.5">World Wide Open Code</text>
+</svg>

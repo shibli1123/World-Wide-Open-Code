@@ -1,6 +1,6 @@
 ﻿import { A } from "@solidjs/router"
-import logoLight from "../asset/nexgen-wordmark-light.svg"
-import logoDark from "../asset/nexgen-wordmark-dark.svg"
+import logoLight from "../asset/world-wide-open-code-wordmark-light.svg"
+import logoDark from "../asset/world-wide-open-code-wordmark-dark.svg"
 import { config } from "~/config"
 import { useLanguage } from "~/context/language"
 
@@ -10,9 +10,9 @@ export function Header(props: { zen?: boolean; go?: boolean; hideGetStarted?: bo
 
   return (
     <section data-component="top">
-      <A href={language.route("/")} aria-label="Nexgen home">
-        <img data-slot="logo light" src={logoLight} alt="Nexgen" width="189" height="34" />
-        <img data-slot="logo dark" src={logoDark} alt="Nexgen" width="189" height="34" />
+      <A href={language.route("/")} aria-label="World Wide Open Code home">
+        <img data-slot="logo light" src={logoLight} alt="World Wide Open Code" width="286" height="36" />
+        <img data-slot="logo dark" src={logoDark} alt="World Wide Open Code" width="286" height="36" />
       </A>
       <nav data-component="nav-desktop" aria-label="Main navigation">
         <ul>

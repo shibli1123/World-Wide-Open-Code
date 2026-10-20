@@ -1,6 +1,0 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="260" height="54" viewBox="0 0 260 54" role="img" aria-label="Nexgen">
-  <rect x="2" y="4" width="46" height="46" rx="13" fill="#f1edff"/>
-  <path d="M13 39V15h6l17 18V15h6v24h-6L19 21v18z" fill="#211d2d"/>
-  <path d="M36 15h6v3h-6z" fill="#8266e8"/>
-  <text x="60" y="39" fill="#f2effa" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.8">nexgen</text>
-</svg>

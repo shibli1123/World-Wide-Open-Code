@@ -14,7 +14,7 @@ export const dict = {
   "nav.home": "الرئيسية",
   "nav.openMenu": "فتح القائمة",
   "nav.getStartedFree": "ابدأ مجانا",
-  "nav.logoAlt": "Nexgen",
+  "nav.logoAlt": "World Wide Open Code",
 
   "nav.context.copyLogo": "نسخ الشعار كـ SVG",
   "nav.context.copyWordmark": "نسخ اسم العلامة كـ SVG",
@@ -54,9 +54,9 @@ export const dict = {
   "common.faq": "الأسئلة الشائعة",
   "common.learnMore": "اعرف المزيد",
 
-  "app.meta.description": "Nexgen - وكيل البرمجة مفتوح المصدر.",
+  "app.meta.description": "World Wide Open Code - وكيل البرمجة مفتوح المصدر.",
 
-  "home.title": "Nexgen | وكيل برمجة بالذكاء الاصطناعي مفتوح المصدر",
+  "home.title": "World Wide Open Code | وكيل برمجة بالذكاء الاصطناعي مفتوح المصدر",
 
   "home.banner.badge": "جديد",
 
@@ -66,8 +66,8 @@ export const dict = {
 
   "home.install.ariaLabel": "خيارات التثبيت",
 
-  "home.what.title": "ما هو Nexgen؟",
-  "home.what.body": "Nexgen وكيل مفتوح المصدر يساعدك على كتابة الكود في الطرفية، IDE، أو سطح المكتب.",
+  "home.what.title": "ما هو World Wide Open Code؟",
+  "home.what.body": "World Wide Open Code وكيل مفتوح المصدر يساعدك على كتابة الكود في الطرفية، IDE، أو سطح المكتب.",
   "home.what.lsp.title": "دعم LSP",
   "home.what.lsp.body": "يحمّل تلقائيًا موافقات LSP المناسبة للـ LLM",
   "home.what.multiSession.title": "جلسات متعددة",
@@ -86,48 +86,48 @@ export const dict = {
 
   "home.growth.title": "وكيل برمجة بالذكاء الاصطناعي مفتوح المصدر",
   "home.growth.body":
-    "مع أكثر من <strong>{{stars}}</strong> نجمة على GitHub، و<strong>{{contributors}}</strong> مساهمًا، وأكثر من <strong>{{commits}}</strong> Commit، يستخدم Nexgen ويثق به أكثر من <strong>{{monthlyUsers}}</strong> مطوّر كل شهر.",
+    "مع أكثر من <strong>{{stars}}</strong> نجمة على GitHub، و<strong>{{contributors}}</strong> مساهمًا، وأكثر من <strong>{{commits}}</strong> Commit، يستخدم World Wide Open Code ويثق به أكثر من <strong>{{monthlyUsers}}</strong> مطوّر كل شهر.",
   "home.growth.githubStars": "نجوم GitHub",
   "home.growth.contributors": "المساهمون",
   "home.growth.monthlyDevs": "مطورون شهريًا",
 
   "home.privacy.title": "مصمم للخصوصية أولاً",
-  "home.privacy.body": "لا يخزّن Nexgen أي كود أو بيانات سياق، ليتمكن من العمل في بيئات حساسة للخصوصية.",
+  "home.privacy.body": "لا يخزّن World Wide Open Code أي كود أو بيانات سياق، ليتمكن من العمل في بيئات حساسة للخصوصية.",
   "home.privacy.learnMore": "اعرف المزيد عن",
   "home.privacy.link": "الخصوصية",
 
-  "home.faq.q1": "ما هو Nexgen؟",
+  "home.faq.q1": "ما هو World Wide Open Code؟",
   "home.faq.a1":
-    "Nexgen وكيل مفتوح المصدر يساعدك على كتابة وتشغيل الكود مع أي نموذج ذكاء اصطناعي. متاح كواجهة طرفية، وتطبيق سطح مكتب، أو امتداد IDE.",
-  "home.faq.q2": "كيف أستخدم Nexgen؟",
+    "World Wide Open Code وكيل مفتوح المصدر يساعدك على كتابة وتشغيل الكود مع أي نموذج ذكاء اصطناعي. متاح كواجهة طرفية، وتطبيق سطح مكتب، أو امتداد IDE.",
+  "home.faq.q2": "كيف أستخدم World Wide Open Code؟",
   "home.faq.a2.before": "أسهل طريقة للبدء هي قراءة",
   "home.faq.a2.link": "المقدمة",
-  "home.faq.q3": "هل أحتاج لاشتراكات ذكاء اصطناعي إضافية لاستخدام Nexgen؟",
+  "home.faq.q3": "هل أحتاج لاشتراكات ذكاء اصطناعي إضافية لاستخدام World Wide Open Code؟",
   "home.faq.a3.p1":
-    "ليس بالضرورة، فـ Nexgen يأتي مع مجموعة من النماذج المجانية التي تستطيع استخدامها دون إنشاء حساب.",
+    "ليس بالضرورة، فـ World Wide Open Code يأتي مع مجموعة من النماذج المجانية التي تستطيع استخدامها دون إنشاء حساب.",
   "home.faq.a3.p2.beforeZen": "وبخلاف ذلك، يمكنك استخدام أي من نماذج البرمجة الشائعة بإنشاء حساب",
   "home.faq.a3.p2.afterZen": ".",
   "home.faq.a3.p3":
-    "مع أننا نشجّع المستخدمين على استخدام Zen، فإن Nexgen يعمل أيضًا مع كل المزودين الشائعين مثل OpenAI، Anthropic، xAI إلخ.",
+    "مع أننا نشجّع المستخدمين على استخدام Zen، فإن World Wide Open Code يعمل أيضًا مع كل المزودين الشائعين مثل OpenAI، Anthropic، xAI إلخ.",
   "home.faq.a3.p4.beforeLocal": "ويمكنك أيضًا ربط",
   "home.faq.a3.p4.localLink": "النماذج المحلية",
-  "home.faq.q4": "هل يمكنني استخدام اشتراكاتي الحالية مع Nexgen؟",
+  "home.faq.q4": "هل يمكنني استخدام اشتراكاتي الحالية مع World Wide Open Code؟",
   "home.faq.a4.p1":
-    "نعم، يدعم Nexgen خطط الاشتراك من كل المزودين الرئيسيين. يمكنك استخدام اشتراكات Claude Pro/Max، ChatGPT Plus/Pro، أو GitHub Copilot.",
-  "home.faq.q5": "هل يمكنني استخدام Nexgen في الطرفية فقط؟",
-  "home.faq.a5.beforeDesktop": "ليس بعد الآن! Nexgen متاح الآن كتطبيق لـ",
+    "نعم، يدعم World Wide Open Code خطط الاشتراك من كل المزودين الرئيسيين. يمكنك استخدام اشتراكات Claude Pro/Max، ChatGPT Plus/Pro، أو GitHub Copilot.",
+  "home.faq.q5": "هل يمكنني استخدام World Wide Open Code في الطرفية فقط؟",
+  "home.faq.a5.beforeDesktop": "ليس بعد الآن! World Wide Open Code متاح الآن كتطبيق لـ",
   "home.faq.a5.desktop": "سطح المكتب",
   "home.faq.a5.and": "و",
   "home.faq.a5.web": "الويب",
-  "home.faq.q6": "كم تكلفة Nexgen؟",
+  "home.faq.q6": "كم تكلفة World Wide Open Code؟",
   "home.faq.a6":
-    "Nexgen مجاني 100% للاستخدام. كما يأتي مع مجموعة من النماذج المجانية. قد توجد تكاليف إضافية إذا ربطت مزوّدًا آخر.",
+    "World Wide Open Code مجاني 100% للاستخدام. كما يأتي مع مجموعة من النماذج المجانية. قد توجد تكاليف إضافية إذا ربطت مزوّدًا آخر.",
   "home.faq.q7": "ماذا عن البيانات والخصوصية؟",
   "home.faq.a7.p1": "لا يتم تخزين بياناتك ومعلوماتك إلا عندما تستخدم نماذجنا المجانية.",
   "home.faq.a7.p2.beforeModels": "اعرف المزيد عن",
   "home.faq.a7.p2.modelsLink": "نماذجنا",
-  "home.faq.q8": "هل Nexgen مفتوح المصدر؟",
-  "home.faq.a8.p1": "نعم، Nexgen مفتوح المصدر بالكامل. الكود المصدري متاح علنًا على",
+  "home.faq.q8": "هل World Wide Open Code مفتوح المصدر؟",
+  "home.faq.a8.p1": "نعم، World Wide Open Code مفتوح المصدر بالكامل. الكود المصدري متاح علنًا على",
   "home.faq.a8.p2": "بموجب",
   "home.faq.a8.mitLicense": "رخصة MIT",
   "home.faq.a8.p3":
@@ -135,23 +135,23 @@ export const dict = {
 
   "home.zenCta.title": "وصول لنماذج محسنة وموثوقة لوكلاء البرمجة",
   "home.zenCta.body":
-    "يمنحك Zen الوصول إلى مجموعة مختارة بعناية من نماذج الذكاء الاصطناعي التي اختبرها Nexgen وقاس أداءها خصيصًا لوكلاء البرمجة. لا حاجة للقلق بشأن اختلاف الأداء والجودة بين المزودين، استخدم نماذج محققة تعمل بكفاءة.",
+    "يمنحك Zen الوصول إلى مجموعة مختارة بعناية من نماذج الذكاء الاصطناعي التي اختبرها World Wide Open Code وقاس أداءها خصيصًا لوكلاء البرمجة. لا حاجة للقلق بشأن اختلاف الأداء والجودة بين المزودين، استخدم نماذج محققة تعمل بكفاءة.",
   "home.zenCta.link": "تعرف على Zen",
 
-  "zen.title": "Nexgen Zen | مجموعة منسقة من النماذج المحسنة والموثوقة لوكلاء البرمجة",
+  "zen.title": "World Wide Open Code Zen | مجموعة منسقة من النماذج المحسنة والموثوقة لوكلاء البرمجة",
   "zen.hero.title": "نماذج محسنة وموثوقة لوكلاء البرمجة",
   "zen.hero.body":
-    "يمنحك Zen الوصول إلى مجموعة منسقة من نماذج الذكاء الاصطناعي التي اختبرها Nexgen وقاس أداءها خصيصًا لوكلاء البرمجة. لا حاجة للقلق بشأن اختلاف الأداء والجودة، استخدم نماذج محققة تعمل بكفاءة.",
+    "يمنحك Zen الوصول إلى مجموعة منسقة من نماذج الذكاء الاصطناعي التي اختبرها World Wide Open Code وقاس أداءها خصيصًا لوكلاء البرمجة. لا حاجة للقلق بشأن اختلاف الأداء والجودة، استخدم نماذج محققة تعمل بكفاءة.",
 
-  "zen.faq.q1": "ما هو Nexgen Zen؟",
+  "zen.faq.q1": "ما هو World Wide Open Code Zen؟",
   "zen.faq.a1":
-    "Zen هو مجموعة منسقة من نماذج الذكاء الاصطناعي التي تم اختبارها وقياس أدائها لوكلاء البرمجة، أنشأها الفريق المطور لـ Nexgen.",
+    "Zen هو مجموعة منسقة من نماذج الذكاء الاصطناعي التي تم اختبارها وقياس أدائها لوكلاء البرمجة، أنشأها الفريق المطور لـ World Wide Open Code.",
   "zen.faq.q2": "ما الذي يجعل Zen أكثر دقة؟",
   "zen.faq.a2":
     "يوفر Zen فقط النماذج التي تم اختبارها وقياس أدائها خصيصًا لوكلاء البرمجة. لن تستخدم سكين زبدة لقطع شريحة لحم، فلا تستخدم نماذج ضعيفة للبرمجة.",
   "zen.faq.q3": "هل Zen أرخص؟",
   "zen.faq.a3":
-    "Zen ليس للربح. يمرر Zen التكاليف من مزودي النماذج إليك مباشرة. كلما زاد استخدام Zen، تمكن Nexgen من التفاوض على أسعار أفضل وتمريرها إليك.",
+    "Zen ليس للربح. يمرر Zen التكاليف من مزودي النماذج إليك مباشرة. كلما زاد استخدام Zen، تمكن World Wide Open Code من التفاوض على أسعار أفضل وتمريرها إليك.",
   "zen.faq.q4": "كم تكلفة Zen؟",
   "zen.faq.a4.p1.beforePricing": "Zen",
   "zen.faq.a4.p1.pricingLink": "يحاسب لكل طلب",
@@ -159,7 +159,7 @@ export const dict = {
   "zen.faq.a4.p2.beforeAccount": "تعتمد تكلفتك الإجمالية على الاستخدام، ويمكنك تعيين حدود إنفاق شهرية في",
   "zen.faq.a4.p2.accountLink": "حسابك",
   "zen.faq.a4.p3":
-    "لتغطية التكاليف، يضيف Nexgen فقط رسومًا صغيرة لمعالجة الدفع قدرها 1.23 دولار لكل إعادة شحن رصيد بقيمة 20 دولارًا.",
+    "لتغطية التكاليف، يضيف World Wide Open Code فقط رسومًا صغيرة لمعالجة الدفع قدرها 1.23 دولار لكل إعادة شحن رصيد بقيمة 20 دولارًا.",
   "zen.faq.q5": "ماذا عن البيانات والخصوصية؟",
   "zen.faq.a5.beforeExceptions":
     "تتم استضافة جميع نماذج Zen في الولايات المتحدة. يتبع المزودون سياسة عدم الاحتفاظ بالبيانات ولا يستخدمون بياناتك لتدريب النماذج، مع",
@@ -170,7 +170,7 @@ export const dict = {
   "zen.faq.a7": "نعم، يمكنك تعطيل الفوترة في أي وقت واستخدام رصيدك المتبقي.",
   "zen.faq.q8": "هل يمكنني استخدام Zen مع وكلاء برمجة آخرين؟",
   "zen.faq.a8":
-    "بينما يعمل Zen بشكل رائع مع Nexgen، يمكنك استخدام Zen مع أي وكيل. اتبع تعليمات الإعداد في وكيل البرمجة المفضل لديك.",
+    "بينما يعمل Zen بشكل رائع مع World Wide Open Code، يمكنك استخدام Zen مع أي وكيل. اتبع تعليمات الإعداد في وكيل البرمجة المفضل لديك.",
   "zen.faq.q9": "هل يمكنني استرداد أموالي؟",
   "zen.faq.a9":
     "قد تكون مؤهلًا لاسترداد أموالك إذا تم الخصم خلال آخر 14 يومًا ولم تستخدم الرصيد الناتج عن عملية الشراء هذه. {{contact}} لطلب استرداد الأموال.",
@@ -182,12 +182,12 @@ export const dict = {
   "zen.problem.title": "ما المشكلة التي يحلها Zen؟",
   "zen.problem.body":
     "هناك العديد من النماذج المتاحة، ولكن القليل منها فقط يعمل بشكل جيد مع وكلاء البرمجة. يقوم معظم مقدمي الخدمة بتكوينها بشكل مختلف مما يعطي نتائج متفاوتة.",
-  "zen.problem.subtitle": "نحن نعمل على إصلاح هذا للجميع، وليس فقط لمستخدمي Nexgen.",
+  "zen.problem.subtitle": "نحن نعمل على إصلاح هذا للجميع، وليس فقط لمستخدمي World Wide Open Code.",
   "zen.problem.item1": "اختبار نماذج مختارة واستشارة فرقها",
   "zen.problem.item2": "العمل مع مقدمي الخدمة لضمان تسليمها بشكل صحيح",
   "zen.problem.item3": "قياس أداء جميع مجموعات النماذج والمزودين التي نوصي بها",
   "zen.how.title": "كيف يعمل Zen",
-  "zen.how.body": "بينما نقترح عليك استخدام Zen مع Nexgen، يمكنك استخدام Zen مع أي وكيل.",
+  "zen.how.body": "بينما نقترح عليك استخدام Zen مع World Wide Open Code، يمكنك استخدام Zen مع أي وكيل.",
   "zen.how.step1.title": "سجّل وأضف رصيدًا بقيمة 20 دولارًا",
   "zen.how.step1.beforeLink": "اتبع",
   "zen.how.step1.link": "تعليمات الإعداد",
@@ -202,7 +202,7 @@ export const dict = {
   "zen.privacy.exceptionsLink": "الاستثناءات التالية",
 
   "go.promo.minimaxM31FlashFree": "يتوفر MiniMax M3.1 Flash Free الآن في Go مجانًا لفترة محدودة.",
-  "go.title": "Nexgen Go | نماذج برمجة منخفضة التكلفة للجميع",
+  "go.title": "World Wide Open Code Go | نماذج برمجة منخفضة التكلفة للجميع",
   "go.meta.description": "يبلغ سعر Go ‏$10/شهر، مع حدود استخدام سخية ووصول موثوق إلى نماذج البرمجة الرائدة.",
   "go.hero.title": "نماذج برمجة منخفضة التكلفة للجميع",
   "go.hero.tagline": "استخدمه مع أي وكيل. قم بزيادة الرصيد إذا لزم الأمر. الإلغاء في أي وقت.",
@@ -237,13 +237,13 @@ export const dict = {
 
   "go.problem.title": "ما المشكلة التي يحلها Go؟",
   "go.problem.body":
-    "نحن نركز على تقديم تجربة Nexgen لأكبر عدد ممكن من الناس. Nexgen Go هو اشتراك منخفض التكلفة بسعر $10/شهر. يوفر حدودا سخية ووصولا موثوقا إلى نماذج المصدر المفتوح الأكثر قدرة.",
+    "نحن نركز على تقديم تجربة World Wide Open Code لأكبر عدد ممكن من الناس. World Wide Open Code Go هو اشتراك منخفض التكلفة بسعر $10/شهر. يوفر حدودا سخية ووصولا موثوقا إلى نماذج المصدر المفتوح الأكثر قدرة.",
   "go.problem.item1": "أسعار اشتراك منخفضة التكلفة",
   "go.problem.item2": "حدود سخية ووصول موثوق",
   "go.problem.item3": "مصمم لأكبر عدد ممكن من المبرمجين",
   "go.problem.item4": "مجموعة منسقة من النماذج المختبرة للبرمجة الوكيلة",
   "go.how.title": "كيف يعمل Go",
-  "go.how.body": "يبلغ سعر Go ‏$10/شهر. يمكنك استخدامه مع Nexgen أو أي وكيل.",
+  "go.how.body": "يبلغ سعر Go ‏$10/شهر. يمكنك استخدامه مع World Wide Open Code أو أي وكيل.",
   "go.how.step1.title": "أنشئ حسابًا",
   "go.how.step1.beforeLink": "اتبع",
   "go.how.step1.link": "تعليمات الإعداد",
@@ -252,7 +252,7 @@ export const dict = {
   "go.how.step2.afterLink": "مع حدود سخية",
   "go.how.step3.title": "ابدأ البرمجة",
   "go.how.step3.body": "مع وصول موثوق لنماذج مفتوحة المصدر",
-  "go.faq.q1": "ما هو Nexgen Go؟",
+  "go.faq.q1": "ما هو World Wide Open Code Go؟",
   "go.faq.a1": "Go هو اشتراك منخفض التكلفة يمنحك وصولًا موثوقًا إلى نماذج مفتوحة المصدر قادرة على البرمجة الوكيلة.",
   "go.faq.q2": "ما النماذج التي يتضمنها Go؟",
   "go.faq.a2": "يتضمن Go النماذج المدرجة أدناه، مع حدود سخية وإتاحة موثوقة.",
@@ -298,12 +298,12 @@ export const dict = {
   "go.faq.a10":
     "قد تكون مؤهلًا لاسترداد أموالك إذا تم الخصم خلال آخر 14 يومًا ولم تستخدم مخصصات Go خلال فترة الفوترة تلك. {{contact}} لطلب استرداد الأموال.",
 
-  "download.title": "Nexgen | تنزيل",
-  "download.meta.description": "نزّل Nexgen لـ macOS، Windows، وLinux",
-  "download.section.terminal": "Nexgen للطرفية",
-  "download.section.desktop": "Nexgen لسطح المكتب",
-  "download.section.extensions": "امتدادات Nexgen",
-  "download.section.integrations": "تكاملات Nexgen",
+  "download.title": "World Wide Open Code | تنزيل",
+  "download.meta.description": "نزّل World Wide Open Code لـ macOS، Windows، وLinux",
+  "download.section.terminal": "World Wide Open Code للطرفية",
+  "download.section.desktop": "World Wide Open Code لسطح المكتب",
+  "download.section.extensions": "امتدادات World Wide Open Code",
+  "download.section.integrations": "تكاملات World Wide Open Code",
   "download.action.download": "تنزيل",
   "download.action.install": "تثبيت",
 
@@ -315,21 +315,21 @@ export const dict = {
   "download.platform.linuxRpm": "Linux (.rpm)",
 
   "download.faq.a3.beforeLocal":
-    "ليس بالضرورة، ولكن على الأرجح. ستحتاج إلى اشتراك ذكاء اصطناعي إذا كنت تريد ربط Nexgen بمزوّد مدفوع، رغم أنه يمكنك العمل مع",
+    "ليس بالضرورة، ولكن على الأرجح. ستحتاج إلى اشتراك ذكاء اصطناعي إذا كنت تريد ربط World Wide Open Code بمزوّد مدفوع، رغم أنه يمكنك العمل مع",
   "download.faq.a3.localLink": "النماذج المحلية",
   "download.faq.a3.afterLocal.beforeZen": "مجانًا. بينما نشجع المستخدمين على استخدام",
-  "download.faq.a3.afterZen": "، فإن Nexgen يعمل مع جميع المزودين الشائعين مثل OpenAI، Anthropic، xAI إلخ.",
+  "download.faq.a3.afterZen": "، فإن World Wide Open Code يعمل مع جميع المزودين الشائعين مثل OpenAI، Anthropic، xAI إلخ.",
 
-  "download.faq.a5.p1": "Nexgen مجاني 100% للاستخدام.",
+  "download.faq.a5.p1": "World Wide Open Code مجاني 100% للاستخدام.",
   "download.faq.a5.p2.beforeZen":
-    "أي تكاليف إضافية ستأتي من اشتراكك لدى مزود النماذج. بينما يعمل Nexgen مع أي مزود نماذج، نوصي باستخدام",
+    "أي تكاليف إضافية ستأتي من اشتراكك لدى مزود النماذج. بينما يعمل World Wide Open Code مع أي مزود نماذج، نوصي باستخدام",
   "download.faq.a5.p2.afterZen": ".",
 
-  "enterprise.title": "Nexgen | حلول المؤسسات لمنظمتك",
-  "enterprise.meta.description": "تواصل مع Nexgen لحلول المؤسسات",
+  "enterprise.title": "World Wide Open Code | حلول المؤسسات لمنظمتك",
+  "enterprise.meta.description": "تواصل مع World Wide Open Code لحلول المؤسسات",
   "enterprise.hero.title": "كودك ملكك",
   "enterprise.hero.body1":
-    "يعمل Nexgen بأمان داخل مؤسستك دون تخزين أي بيانات أو سياق، ودون قيود ترخيص أو مطالبات ملكية. ابدأ تجربة مع فريقك، ثم انشره عبر مؤسستك من خلال دمجه مع SSO وبوابة الذكاء الاصطناعي الداخلية لديك.",
+    "يعمل World Wide Open Code بأمان داخل مؤسستك دون تخزين أي بيانات أو سياق، ودون قيود ترخيص أو مطالبات ملكية. ابدأ تجربة مع فريقك، ثم انشره عبر مؤسستك من خلال دمجه مع SSO وبوابة الذكاء الاصطناعي الداخلية لديك.",
   "enterprise.hero.body2": "أخبرنا كيف يمكننا المساعدة.",
   "enterprise.form.name.label": "الاسم الكامل",
   "enterprise.form.name.placeholder": "جيف بيزوس",
@@ -361,29 +361,29 @@ export const dict = {
   "enterprise.form.error.invalidInferenceSpend": "اختر نطاقًا صالحًا للإنفاق على الاستدلال.",
   "enterprise.form.error.internalServer": "خطأ داخلي في الخادم.",
   "enterprise.faq.title": "الأسئلة الشائعة",
-  "enterprise.faq.q1": "ما هو Nexgen Enterprise؟",
+  "enterprise.faq.q1": "ما هو World Wide Open Code Enterprise؟",
   "enterprise.faq.a1":
-    "Nexgen Enterprise مخصص للمؤسسات التي تريد التأكد من أن الكود والبيانات لا تغادر بنيتها التحتية أبدًا. يتحقق ذلك عبر استخدام تكوين مركزي يندمج مع SSO وبوابة الذكاء الاصطناعي الداخلية لديك.",
-  "enterprise.faq.q2": "كيف أبدأ مع Nexgen Enterprise؟",
+    "World Wide Open Code Enterprise مخصص للمؤسسات التي تريد التأكد من أن الكود والبيانات لا تغادر بنيتها التحتية أبدًا. يتحقق ذلك عبر استخدام تكوين مركزي يندمج مع SSO وبوابة الذكاء الاصطناعي الداخلية لديك.",
+  "enterprise.faq.q2": "كيف أبدأ مع World Wide Open Code Enterprise؟",
   "enterprise.faq.a2":
-    "ابدأ ببساطة بتجربة داخلية مع فريقك. افتراضيًا، لا يقوم Nexgen بتخزين الكود أو بيانات السياق، مما يجعل البدء سهلاً. ثم اتصل بنا لمناقشة الأسعار وخيارات التنفيذ.",
+    "ابدأ ببساطة بتجربة داخلية مع فريقك. افتراضيًا، لا يقوم World Wide Open Code بتخزين الكود أو بيانات السياق، مما يجعل البدء سهلاً. ثم اتصل بنا لمناقشة الأسعار وخيارات التنفيذ.",
   "enterprise.faq.q3": "كيف تعمل تسعيرة المؤسسات؟",
   "enterprise.faq.a3":
     "نقدم تسعيرًا للمؤسسات حسب المقعد. إذا كان لديك بوابة LLM خاصة بك، فلن نفرض رسومًا على التوكنات المستخدمة. لمزيد من التفاصيل، اتصل بنا للحصول على عرض سعر مخصص بناءً على احتياجات مؤسستك.",
-  "enterprise.faq.q4": "هل بياناتي آمنة مع Nexgen Enterprise؟",
+  "enterprise.faq.q4": "هل بياناتي آمنة مع World Wide Open Code Enterprise؟",
   "enterprise.faq.a4":
-    "نعم. لا يقوم Nexgen بتخزين الكود أو بيانات السياق. تتم جميع المعالجة محليًا أو عبر استدعاءات API مباشرة إلى مزود الذكاء الاصطناعي لديك. مع التكوين المركزي وتكامل SSO، تظل بياناتك آمنة داخل البنية التحتية لمؤسستك.",
+    "نعم. لا يقوم World Wide Open Code بتخزين الكود أو بيانات السياق. تتم جميع المعالجة محليًا أو عبر استدعاءات API مباشرة إلى مزود الذكاء الاصطناعي لديك. مع التكوين المركزي وتكامل SSO، تظل بياناتك آمنة داخل البنية التحتية لمؤسستك.",
 
-  "brand.title": "Nexgen | العلامة التجارية",
-  "brand.meta.description": "إرشادات العلامة التجارية لـ Nexgen",
+  "brand.title": "World Wide Open Code | العلامة التجارية",
+  "brand.meta.description": "إرشادات العلامة التجارية لـ World Wide Open Code",
   "brand.heading": "إرشادات العلامة التجارية",
-  "brand.subtitle": "موارد وأصول لمساعدتك في العمل مع العلامة التجارية لـ Nexgen.",
+  "brand.subtitle": "موارد وأصول لمساعدتك في العمل مع العلامة التجارية لـ World Wide Open Code.",
   "brand.downloadAll": "تنزيل جميع الأصول",
 
-  "changelog.title": "Nexgen | سجل التغييرات",
-  "changelog.meta.description": "ملاحظات الإصدار وسجل التغييرات لـ Nexgen",
+  "changelog.title": "World Wide Open Code | سجل التغييرات",
+  "changelog.meta.description": "ملاحظات الإصدار وسجل التغييرات لـ World Wide Open Code",
   "changelog.hero.title": "سجل التغييرات",
-  "changelog.hero.subtitle": "تحديثات وتحسينات جديدة لـ Nexgen",
+  "changelog.hero.subtitle": "تحديثات وتحسينات جديدة لـ World Wide Open Code",
   "changelog.empty": "لم يتم العثور على مدخلات في سجل التغييرات.",
   "changelog.viewJson": "عرض JSON",
 } satisfies Dict

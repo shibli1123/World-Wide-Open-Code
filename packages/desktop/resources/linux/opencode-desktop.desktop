@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=Nexgen
-Exec=/opt/Nexgen/io.github.shibli1123.nexgen.desktop %U
+Name=World Wide Open Code
+Exec=/opt/World Wide Open Code/io.github.shibli1123.wwoc.desktop %U
 Terminal=false
 Type=Application
-Icon=io.github.shibli1123.nexgen.desktop
-StartupWMClass=io.github.shibli1123.nexgen.desktop
+Icon=io.github.shibli1123.wwoc.desktop
+StartupWMClass=io.github.shibli1123.wwoc.desktop
 NoDisplay=true
 Comment=Open source code collaboration workspace
 Categories=Development;
