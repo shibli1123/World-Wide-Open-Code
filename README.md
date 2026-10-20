@@ -27,7 +27,7 @@ The existing CLI executable and internal package scopes retain their `opencode` 
 
 ## Identity and license
 
-World Wide Open Code is maintained by **Shibli Sanjid Faheem**, inspired by [OpenCode](https://github.com/anomalyco/opencode), and has evolved into an independent project. It builds on the OpenCode open source codebase; existing license and copyright notices remain with their original works. World Wide Open Code is not affiliated with the OpenCode team.
+World Wide Open Code is maintained by **Shibli Sanjid Faheem**. It took inspiration from [OpenCode](https://github.com/anomalyco/opencode) and has evolved that idea into an independent open source developer platform built on the OpenCode open source codebase. Existing license and copyright notices remain with their original works. World Wide Open Code is not affiliated with the OpenCode team.
 
 This repository is distributed under the MIT License. See [LICENSE](./LICENSE) for the original notices and terms.
 
