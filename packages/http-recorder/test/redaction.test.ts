@@ -77,7 +77,7 @@ describe("redaction", () => {
               url: "https://example.test/path?key=sk-123456789012345678901234",
               headers: {},
               body: JSON.stringify({
-                nested: "["AIza", "test-fixture-google-key-123456"].join("")",
+                nested: ["AIza", "test-fixture-google-key-123456"].join(""),
               }),
             },
             response: {
